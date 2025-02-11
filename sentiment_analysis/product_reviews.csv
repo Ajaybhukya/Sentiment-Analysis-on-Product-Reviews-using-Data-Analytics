@@ -1,0 +1,2001 @@
+Review_ID,Product_Name,Review_Text,Rating
+1,Tablet,Very satisfied with the performance.,6
+2,Smartphone,Great battery life and amazing camera!,4
+3,Headphones,"Too many bugs, very disappointing.",-1
+4,Laptop,Best tablet ever!!!!!!!,1
+5,Laptop,Noise isolation is perfect!,4
+6,Headphones,Waterproof and stylish!,5
+7,Smartwatch,Extremely comfortable for long hours.,2
+8,Smartphone,Sound quality is great! But overpriced.,6
+9,Tablet,Extremely comfortable for long hours.,2
+10,Smartwatch,"Speakers are too low, can't hear properly.",1
+11,Tablet,Extremely comfortable for long hours.,6
+12,Laptop,"Poor build quality, broke in a week.",1
+13,Headphones,Stylus works beautifully!,5
+14,Smartphone,Very satisfied with the performance.,1
+15,Headphones,"Speakers are too low, can't hear properly.",6
+16,Laptop,Best tablet ever!!!!!!!,4
+17,Tablet,LOVE THE FEATURES! but battery drains fast,3
+18,Tablet,Notifications are very slow to appear.,6
+19,Smartphone,"Camera is outstanding, love it!",2
+20,Tablet,"Overheats like crazy, unusable!",2
+21,Tablet,"Battery lasts barely a day, not worth it.",2
+22,Tablet,LOVE THE FEATURES! but battery drains fast,2
+23,Headphones,"Too many bugs, very disappointing.",-1
+24,Laptop,Extremely comfortable for long hours.,-1
+25,Smartwatch,Exceptional performance!,-1
+26,Smartwatch,Extremely comfortable for long hours.,2
+27,Tablet,Great battery life and amazing camera!,5
+28,Smartwatch,EXCELLENT device. love it!,4
+29,Smartphone,Notifications are very slow to appear.,-1
+30,Tablet,,5
+31,Laptop,Crashed on the first day! Unbelievable.,1
+32,Laptop,EXCELLENT device. love it!,1
+33,Headphones,Decent sound quality but overpriced,4
+34,Smartphone,Extremely comfortable for long hours.,1
+35,Headphones,Garbage! Never buying again!,4
+36,Laptop,Decent sound quality but overpriced,5
+37,Smartwatch,"Speakers are too low, can't hear properly.",4
+38,Tablet,"Too many bugs, very disappointing.",3
+39,Smartwatch,Absolutely fantastic for reading and browsing.,4
+40,Headphones,Garbage! Never buying again!,6
+41,Headphones,,2
+42,Smartphone,Sound quality is great! But overpriced.,5
+43,Smartphone,Extremely comfortable for long hours.,-1
+44,Headphones,Slow performance and keeps freezing,2
+45,Smartwatch,Touchpad is very unresponsive.,3
+46,Smartphone,Exceptional performance!,5
+47,Smartwatch,Noise isolation is perfect!,6
+48,Headphones,Build quality feels cheap.,2
+49,Tablet,Decent sound quality but overpriced,6
+50,Smartwatch,Sound quality is great! But overpriced.,6
+51,Smartphone,Super slow! Regret buying.,6
+52,Tablet,Super slow! Regret buying.,6
+53,Tablet,Very satisfied with the performance.,6
+54,Tablet,Build quality feels cheap.,6
+55,Laptop,Extremely comfortable for long hours.,3
+56,Headphones,"Too many bugs, very disappointing.",3
+57,Laptop,Touchpad is very unresponsive.,3
+58,Tablet,Exceptional performance!,5
+59,Smartwatch,Noise isolation is perfect!,4
+60,Laptop,Best purchase I've made!,5
+61,Laptop,,1
+62,Tablet,"Super fast SSD, boots in seconds!",6
+63,Smartphone,Slow performance and keeps freezing,4
+64,Laptop,Notifications are very slow to appear.,2
+65,Smartwatch,LOVE THE FEATURES! but battery drains fast,5
+66,Laptop,Sound quality is great! But overpriced.,1
+67,Tablet,LOVE THE FEATURES! but battery drains fast,6
+68,Tablet,Crashed on the first day! Unbelievable.,2
+69,Laptop,"Too many bugs, very disappointing.",6
+70,Laptop,Extremely comfortable for long hours.,2
+71,Smartwatch,Crashed on the first day! Unbelievable.,1
+72,Headphones,Exceptional performance!,2
+73,Smartphone,"Super fast SSD, boots in seconds!",2
+74,Smartwatch,,-1
+75,Headphones,Waterproof and stylish!,3
+76,Laptop,LOVE THE FEATURES! but battery drains fast,1
+77,Smartphone,Crashed on the first day! Unbelievable.,6
+78,Laptop,Noise isolation is perfect!,2
+79,Headphones,Absolutely fantastic for reading and browsing.,1
+80,Smartphone,Great battery life and amazing camera!,5
+81,Headphones,EXCELLENT device. love it!,2
+82,Headphones,Absolutely fantastic for reading and browsing.,1
+83,Laptop,Super slow! Regret buying.,6
+84,Headphones,Crashed on the first day! Unbelievable.,6
+85,Smartwatch,Exceptional performance!,-1
+86,Smartwatch,"Battery lasts barely a day, not worth it.",1
+87,Smartwatch,"Camera is outstanding, love it!",-1
+88,Tablet,"Fast and smooth performance, highly recommend!",5
+89,Smartwatch,Extremely comfortable for long hours.,4
+90,Smartwatch,Crashed on the first day! Unbelievable.,6
+91,Tablet,Extremely comfortable for long hours.,6
+92,Headphones,"Overheats like crazy, unusable!",-1
+93,Tablet,LOVE THE FEATURES! but battery drains fast,3
+94,Laptop,"Battery lasts barely a day, not worth it.",5
+95,Headphones,"Poor build quality, broke in a week.",-1
+96,Tablet,"Overheats like crazy, unusable!",1
+97,Smartwatch,,5
+98,Tablet,Slow performance and keeps freezing,3
+99,Smartphone,Sound quality is great! But overpriced.,3
+100,Smartwatch,"Speakers are too low, can't hear properly.",4
+101,Tablet,Notifications are very slow to appear.,6
+102,Smartwatch,Super slow! Regret buying.,4
+103,Headphones,Sound quality is great! But overpriced.,6
+104,Headphones,Best tablet ever!!!!!!!,3
+105,Smartwatch,Very satisfied with the performance.,2
+106,Headphones,Best purchase I've made!,4
+107,Smartwatch,"Bad product, worst ever!",5
+108,Smartphone,Stylus works beautifully!,2
+109,Laptop,Great battery life and amazing camera!,2
+110,Headphones,Very satisfied with the performance.,-1
+111,Headphones,Notifications are very slow to appear.,3
+112,Laptop,Sound quality is great! But overpriced.,-1
+113,Smartphone,LOVE THE FEATURES! but battery drains fast,-1
+114,Smartphone,Sound quality is great! But overpriced.,2
+115,Smartphone,Slow performance and keeps freezing,4
+116,Tablet,Best purchase I've made!,4
+117,Smartphone,"Super fast SSD, boots in seconds!",5
+118,Smartwatch,Decent sound quality but overpriced,1
+119,Headphones,"Too many bugs, very disappointing.",3
+120,Tablet,Too expensive for the specs it offers.,-1
+121,Laptop,"Speakers are too low, can't hear properly.",3
+122,Smartwatch,Touchpad is very unresponsive.,6
+123,Tablet,"Super fast SSD, boots in seconds!",3
+124,Headphones,Sound quality is great! But overpriced.,5
+125,Smartphone,"Poor build quality, broke in a week.",6
+126,Smartphone,"Poor build quality, broke in a week.",6
+127,Laptop,Sound quality is great! But overpriced.,4
+128,Laptop,Decent sound quality but overpriced,-1
+129,Headphones,Decent sound quality but overpriced,-1
+130,Headphones,Waterproof and stylish!,1
+131,Tablet,"Overheats like crazy, unusable!",4
+132,Tablet,Best purchase I've made!,6
+133,Smartphone,Slow performance and keeps freezing,2
+134,Laptop,"Camera is outstanding, love it!",3
+135,Smartphone,"Bad product, worst ever!",3
+136,Smartwatch,Waterproof and stylish!,6
+137,Headphones,Charges super fast!,1
+138,Tablet,"Poor build quality, broke in a week.",-1
+139,Smartwatch,Best tablet ever!!!!!!!,1
+140,Tablet,"Super fast SSD, boots in seconds!",2
+141,Headphones,Garbage! Never buying again!,2
+142,Headphones,LOVE THE FEATURES! but battery drains fast,-1
+143,Headphones,Garbage! Never buying again!,4
+144,Laptop,Garbage! Never buying again!,3
+145,Smartphone,"Battery lasts barely a day, not worth it.",6
+146,Smartwatch,Best purchase I've made!,4
+147,Headphones,Too expensive for the specs it offers.,3
+148,Laptop,Slow performance and keeps freezing,4
+149,Headphones,Absolutely fantastic for reading and browsing.,5
+150,Laptop,Noise isolation is perfect!,-1
+151,Smartphone,"Overheats like crazy, unusable!",5
+152,Headphones,Waterproof and stylish!,1
+153,Headphones,"Battery lasts barely a day, not worth it.",1
+154,Smartwatch,Charges super fast!,6
+155,Headphones,Great battery life and amazing camera!,1
+156,Laptop,Decent sound quality but overpriced,2
+157,Smartphone,LOVE THE FEATURES! but battery drains fast,1
+158,Laptop,Decent sound quality but overpriced,5
+159,Smartphone,"Overheats like crazy, unusable!",5
+160,Headphones,"Poor build quality, broke in a week.",-1
+161,Smartphone,Best tablet ever!!!!!!!,6
+162,Laptop,Absolutely fantastic for reading and browsing.,6
+163,Smartphone,Garbage! Never buying again!,1
+164,Smartphone,Best purchase I've made!,3
+165,Tablet,"Bad product, worst ever!",5
+166,Smartphone,Best purchase I've made!,3
+167,Smartphone,Decent sound quality but overpriced,5
+168,Smartphone,Waterproof and stylish!,-1
+169,Headphones,"Bad product, worst ever!",3
+170,Headphones,"Camera is outstanding, love it!",5
+171,Laptop,Best purchase I've made!,3
+172,Laptop,"Camera is outstanding, love it!",5
+173,Headphones,Notifications are very slow to appear.,-1
+174,Tablet,Notifications are very slow to appear.,2
+175,Smartphone,"Battery lasts barely a day, not worth it.",3
+176,Tablet,Notifications are very slow to appear.,3
+177,Headphones,"Super fast SSD, boots in seconds!",3
+178,Headphones,Decent sound quality but overpriced,3
+179,Laptop,"Super fast SSD, boots in seconds!",2
+180,Laptop,"Fast and smooth performance, highly recommend!",5
+181,Smartwatch,"Overheats like crazy, unusable!",6
+182,Laptop,"Battery lasts barely a day, not worth it.",1
+183,Headphones,Absolutely fantastic for reading and browsing.,3
+184,Smartphone,Noise isolation is perfect!,3
+185,Headphones,Sound quality is great! But overpriced.,5
+186,Tablet,"Speakers are too low, can't hear properly.",5
+187,Smartwatch,Extremely comfortable for long hours.,-1
+188,Tablet,Build quality feels cheap.,1
+189,Laptop,"Poor build quality, broke in a week.",-1
+190,Laptop,Best tablet ever!!!!!!!,3
+191,Tablet,Great battery life and amazing camera!,3
+192,Laptop,,-1
+193,Tablet,Waterproof and stylish!,6
+194,Tablet,Slow performance and keeps freezing,4
+195,Tablet,Garbage! Never buying again!,6
+196,Laptop,"Super fast SSD, boots in seconds!",3
+197,Headphones,Stylus works beautifully!,3
+198,Headphones,Crashed on the first day! Unbelievable.,3
+199,Laptop,"Battery lasts barely a day, not worth it.",4
+200,Laptop,Waterproof and stylish!,5
+201,Headphones,"Bad product, worst ever!",5
+202,Smartwatch,"Bad product, worst ever!",6
+203,Smartphone,"Super fast SSD, boots in seconds!",5
+204,Smartwatch,"Super fast SSD, boots in seconds!",1
+205,Smartphone,"Overheats like crazy, unusable!",4
+206,Smartphone,Best purchase I've made!,4
+207,Headphones,Decent sound quality but overpriced,1
+208,Smartphone,,5
+209,Tablet,EXCELLENT device. love it!,2
+210,Laptop,Great battery life and amazing camera!,5
+211,Tablet,Absolutely fantastic for reading and browsing.,1
+212,Smartwatch,EXCELLENT device. love it!,2
+213,Smartphone,Extremely comfortable for long hours.,2
+214,Smartwatch,"Bad product, worst ever!",5
+215,Smartwatch,"Speakers are too low, can't hear properly.",5
+216,Smartwatch,Noise isolation is perfect!,-1
+217,Smartphone,LOVE THE FEATURES! but battery drains fast,3
+218,Laptop,,4
+219,Laptop,"Fast and smooth performance, highly recommend!",-1
+220,Laptop,Garbage! Never buying again!,3
+221,Laptop,Best purchase I've made!,6
+222,Smartwatch,"Fast and smooth performance, highly recommend!",1
+223,Smartwatch,Best tablet ever!!!!!!!,2
+224,Smartphone,Decent sound quality but overpriced,3
+225,Smartphone,Waterproof and stylish!,2
+226,Smartwatch,Best purchase I've made!,-1
+227,Tablet,"Fast and smooth performance, highly recommend!",1
+228,Laptop,"Speakers are too low, can't hear properly.",-1
+229,Smartphone,Too expensive for the specs it offers.,4
+230,Smartphone,"Bad product, worst ever!",2
+231,Headphones,"Speakers are too low, can't hear properly.",5
+232,Smartphone,EXCELLENT device. love it!,2
+233,Smartwatch,Too expensive for the specs it offers.,6
+234,Headphones,"Overheats like crazy, unusable!",4
+235,Headphones,Crashed on the first day! Unbelievable.,4
+236,Smartwatch,Too expensive for the specs it offers.,3
+237,Headphones,Exceptional performance!,-1
+238,Headphones,"Battery lasts barely a day, not worth it.",1
+239,Smartphone,Stylus works beautifully!,5
+240,Smartwatch,Very satisfied with the performance.,2
+241,Headphones,Super slow! Regret buying.,1
+242,Smartphone,Exceptional performance!,2
+243,Smartwatch,Very satisfied with the performance.,1
+244,Headphones,Extremely comfortable for long hours.,6
+245,Smartphone,Crashed on the first day! Unbelievable.,1
+246,Laptop,,3
+247,Headphones,"Speakers are too low, can't hear properly.",5
+248,Smartwatch,Waterproof and stylish!,5
+249,Tablet,,5
+250,Smartwatch,"Super fast SSD, boots in seconds!",3
+251,Tablet,Sound quality is great! But overpriced.,3
+252,Smartphone,Sound quality is great! But overpriced.,-1
+253,Headphones,Exceptional performance!,6
+254,Laptop,"Overheats like crazy, unusable!",5
+255,Headphones,Very satisfied with the performance.,-1
+256,Laptop,"Overheats like crazy, unusable!",4
+257,Laptop,"Poor build quality, broke in a week.",1
+258,Smartphone,Exceptional performance!,-1
+259,Headphones,Very satisfied with the performance.,5
+260,Smartphone,Great battery life and amazing camera!,5
+261,Smartwatch,Very satisfied with the performance.,5
+262,Headphones,Super slow! Regret buying.,2
+263,Tablet,Charges super fast!,6
+264,Smartphone,Touchpad is very unresponsive.,1
+265,Smartwatch,"Poor build quality, broke in a week.",6
+266,Headphones,"Poor build quality, broke in a week.",6
+267,Smartphone,Garbage! Never buying again!,3
+268,Headphones,"Battery lasts barely a day, not worth it.",4
+269,Smartwatch,Waterproof and stylish!,1
+270,Smartwatch,Garbage! Never buying again!,4
+271,Headphones,Touchpad is very unresponsive.,3
+272,Laptop,"Too many bugs, very disappointing.",4
+273,Tablet,Sound quality is great! But overpriced.,5
+274,Headphones,"Super fast SSD, boots in seconds!",4
+275,Headphones,Stylus works beautifully!,2
+276,Tablet,Garbage! Never buying again!,2
+277,Smartwatch,"Bad product, worst ever!",4
+278,Smartwatch,Very satisfied with the performance.,6
+279,Headphones,Garbage! Never buying again!,-1
+280,Laptop,"Fast and smooth performance, highly recommend!",1
+281,Smartwatch,LOVE THE FEATURES! but battery drains fast,1
+282,Headphones,Best purchase I've made!,2
+283,Smartwatch,,3
+284,Headphones,"Camera is outstanding, love it!",6
+285,Smartwatch,Decent sound quality but overpriced,6
+286,Smartphone,Too expensive for the specs it offers.,1
+287,Headphones,"Poor build quality, broke in a week.",3
+288,Smartphone,Sound quality is great! But overpriced.,2
+289,Tablet,,1
+290,Tablet,"Fast and smooth performance, highly recommend!",-1
+291,Smartphone,Stylus works beautifully!,-1
+292,Laptop,"Too many bugs, very disappointing.",-1
+293,Headphones,"Fast and smooth performance, highly recommend!",-1
+294,Smartphone,"Overheats like crazy, unusable!",5
+295,Headphones,Charges super fast!,-1
+296,Smartphone,"Poor build quality, broke in a week.",2
+297,Laptop,Waterproof and stylish!,1
+298,Smartwatch,Crashed on the first day! Unbelievable.,6
+299,Smartwatch,Build quality feels cheap.,5
+300,Smartphone,EXCELLENT device. love it!,2
+301,Smartphone,"Battery lasts barely a day, not worth it.",6
+302,Smartphone,Best purchase I've made!,1
+303,Laptop,Absolutely fantastic for reading and browsing.,1
+304,Smartwatch,Slow performance and keeps freezing,1
+305,Laptop,Garbage! Never buying again!,2
+306,Headphones,Stylus works beautifully!,1
+307,Smartwatch,Best purchase I've made!,-1
+308,Tablet,Touchpad is very unresponsive.,6
+309,Smartwatch,Very satisfied with the performance.,2
+310,Laptop,Exceptional performance!,5
+311,Smartwatch,Charges super fast!,4
+312,Smartwatch,Slow performance and keeps freezing,-1
+313,Laptop,EXCELLENT device. love it!,6
+314,Laptop,Waterproof and stylish!,6
+315,Laptop,,4
+316,Headphones,,3
+317,Tablet,Touchpad is very unresponsive.,-1
+318,Smartphone,"Fast and smooth performance, highly recommend!",4
+319,Tablet,Exceptional performance!,3
+320,Tablet,"Fast and smooth performance, highly recommend!",3
+321,Headphones,"Battery lasts barely a day, not worth it.",6
+322,Laptop,Super slow! Regret buying.,6
+323,Tablet,Very satisfied with the performance.,-1
+324,Tablet,LOVE THE FEATURES! but battery drains fast,6
+325,Laptop,Very satisfied with the performance.,5
+326,Smartwatch,Garbage! Never buying again!,2
+327,Headphones,"Speakers are too low, can't hear properly.",1
+328,Tablet,Notifications are very slow to appear.,3
+329,Smartphone,Noise isolation is perfect!,1
+330,Laptop,Build quality feels cheap.,1
+331,Laptop,"Super fast SSD, boots in seconds!",4
+332,Tablet,"Overheats like crazy, unusable!",4
+333,Laptop,Charges super fast!,1
+334,Smartphone,"Bad product, worst ever!",-1
+335,Tablet,Too expensive for the specs it offers.,2
+336,Headphones,Absolutely fantastic for reading and browsing.,6
+337,Tablet,Sound quality is great! But overpriced.,3
+338,Laptop,Best purchase I've made!,4
+339,Smartphone,Stylus works beautifully!,1
+340,Smartphone,Build quality feels cheap.,2
+341,Smartwatch,Waterproof and stylish!,3
+342,Smartphone,"Battery lasts barely a day, not worth it.",3
+343,Headphones,Noise isolation is perfect!,2
+344,Laptop,Very satisfied with the performance.,5
+345,Tablet,Crashed on the first day! Unbelievable.,2
+346,Smartwatch,Too expensive for the specs it offers.,4
+347,Headphones,"Camera is outstanding, love it!",1
+348,Tablet,Absolutely fantastic for reading and browsing.,-1
+349,Headphones,Build quality feels cheap.,3
+350,Laptop,Exceptional performance!,-1
+351,Smartwatch,Exceptional performance!,1
+352,Smartwatch,Notifications are very slow to appear.,2
+353,Tablet,Touchpad is very unresponsive.,-1
+354,Smartphone,EXCELLENT device. love it!,1
+355,Laptop,"Battery lasts barely a day, not worth it.",1
+356,Headphones,Build quality feels cheap.,6
+357,Smartwatch,"Speakers are too low, can't hear properly.",6
+358,Tablet,"Fast and smooth performance, highly recommend!",1
+359,Headphones,"Overheats like crazy, unusable!",4
+360,Smartwatch,Touchpad is very unresponsive.,6
+361,Tablet,EXCELLENT device. love it!,4
+362,Smartwatch,Touchpad is very unresponsive.,6
+363,Headphones,Slow performance and keeps freezing,2
+364,Tablet,Waterproof and stylish!,5
+365,Headphones,Crashed on the first day! Unbelievable.,5
+366,Laptop,Sound quality is great! But overpriced.,6
+367,Smartwatch,Best tablet ever!!!!!!!,-1
+368,Laptop,Build quality feels cheap.,6
+369,Headphones,,5
+370,Smartwatch,Sound quality is great! But overpriced.,2
+371,Laptop,Sound quality is great! But overpriced.,2
+372,Tablet,Charges super fast!,-1
+373,Smartphone,Too expensive for the specs it offers.,2
+374,Tablet,Exceptional performance!,-1
+375,Smartwatch,Crashed on the first day! Unbelievable.,2
+376,Smartwatch,Exceptional performance!,-1
+377,Tablet,Build quality feels cheap.,3
+378,Smartwatch,"Poor build quality, broke in a week.",3
+379,Laptop,Noise isolation is perfect!,2
+380,Smartphone,Too expensive for the specs it offers.,2
+381,Laptop,"Battery lasts barely a day, not worth it.",3
+382,Smartwatch,Super slow! Regret buying.,3
+383,Smartwatch,Very satisfied with the performance.,6
+384,Tablet,Exceptional performance!,1
+385,Tablet,Great battery life and amazing camera!,-1
+386,Smartphone,Notifications are very slow to appear.,2
+387,Laptop,Super slow! Regret buying.,6
+388,Tablet,Notifications are very slow to appear.,2
+389,Smartphone,Noise isolation is perfect!,-1
+390,Tablet,Decent sound quality but overpriced,4
+391,Smartphone,Too expensive for the specs it offers.,-1
+392,Laptop,Waterproof and stylish!,1
+393,Tablet,Absolutely fantastic for reading and browsing.,4
+394,Smartphone,"Super fast SSD, boots in seconds!",1
+395,Tablet,"Camera is outstanding, love it!",4
+396,Tablet,"Fast and smooth performance, highly recommend!",5
+397,Laptop,"Camera is outstanding, love it!",4
+398,Smartphone,"Poor build quality, broke in a week.",1
+399,Tablet,,4
+400,Smartphone,"Battery lasts barely a day, not worth it.",5
+401,Smartphone,Garbage! Never buying again!,-1
+402,Smartwatch,Very satisfied with the performance.,5
+403,Laptop,Too expensive for the specs it offers.,4
+404,Smartwatch,Build quality feels cheap.,6
+405,Smartwatch,"Overheats like crazy, unusable!",1
+406,Headphones,"Overheats like crazy, unusable!",1
+407,Smartwatch,LOVE THE FEATURES! but battery drains fast,2
+408,Smartwatch,Best purchase I've made!,4
+409,Tablet,"Too many bugs, very disappointing.",5
+410,Headphones,EXCELLENT device. love it!,2
+411,Laptop,LOVE THE FEATURES! but battery drains fast,2
+412,Headphones,Sound quality is great! But overpriced.,5
+413,Smartwatch,,4
+414,Smartwatch,Waterproof and stylish!,6
+415,Smartphone,"Super fast SSD, boots in seconds!",5
+416,Smartphone,Noise isolation is perfect!,3
+417,Smartphone,,3
+418,Smartphone,Build quality feels cheap.,1
+419,Smartphone,"Fast and smooth performance, highly recommend!",5
+420,Smartwatch,Exceptional performance!,3
+421,Smartphone,"Overheats like crazy, unusable!",-1
+422,Tablet,"Speakers are too low, can't hear properly.",4
+423,Tablet,Touchpad is very unresponsive.,5
+424,Laptop,Extremely comfortable for long hours.,6
+425,Smartwatch,Stylus works beautifully!,1
+426,Tablet,Absolutely fantastic for reading and browsing.,-1
+427,Laptop,"Camera is outstanding, love it!",1
+428,Smartphone,Great battery life and amazing camera!,3
+429,Smartphone,Too expensive for the specs it offers.,1
+430,Headphones,"Camera is outstanding, love it!",3
+431,Headphones,,-1
+432,Smartwatch,Garbage! Never buying again!,2
+433,Laptop,"Bad product, worst ever!",6
+434,Headphones,"Too many bugs, very disappointing.",4
+435,Tablet,,2
+436,Tablet,Touchpad is very unresponsive.,4
+437,Laptop,,2
+438,Laptop,Charges super fast!,2
+439,Headphones,Waterproof and stylish!,5
+440,Tablet,Exceptional performance!,1
+441,Smartphone,Best tablet ever!!!!!!!,2
+442,Laptop,Touchpad is very unresponsive.,1
+443,Smartwatch,"Fast and smooth performance, highly recommend!",5
+444,Tablet,Best purchase I've made!,2
+445,Smartwatch,LOVE THE FEATURES! but battery drains fast,2
+446,Smartphone,"Speakers are too low, can't hear properly.",4
+447,Laptop,"Overheats like crazy, unusable!",-1
+448,Laptop,Too expensive for the specs it offers.,6
+449,Laptop,LOVE THE FEATURES! but battery drains fast,1
+450,Laptop,Charges super fast!,1
+451,Smartwatch,Waterproof and stylish!,3
+452,Laptop,"Overheats like crazy, unusable!",2
+453,Smartwatch,Too expensive for the specs it offers.,6
+454,Smartphone,Charges super fast!,3
+455,Tablet,Exceptional performance!,5
+456,Laptop,Touchpad is very unresponsive.,4
+457,Laptop,Waterproof and stylish!,2
+458,Headphones,Noise isolation is perfect!,5
+459,Headphones,"Battery lasts barely a day, not worth it.",4
+460,Tablet,"Poor build quality, broke in a week.",3
+461,Laptop,"Bad product, worst ever!",6
+462,Smartphone,"Speakers are too low, can't hear properly.",-1
+463,Headphones,Absolutely fantastic for reading and browsing.,5
+464,Smartphone,Build quality feels cheap.,1
+465,Headphones,Very satisfied with the performance.,4
+466,Tablet,Charges super fast!,3
+467,Smartwatch,Notifications are very slow to appear.,1
+468,Smartphone,Waterproof and stylish!,5
+469,Tablet,Notifications are very slow to appear.,4
+470,Smartwatch,Best purchase I've made!,4
+471,Tablet,"Battery lasts barely a day, not worth it.",1
+472,Laptop,Great battery life and amazing camera!,-1
+473,Smartwatch,Best tablet ever!!!!!!!,1
+474,Smartwatch,Slow performance and keeps freezing,6
+475,Headphones,Charges super fast!,1
+476,Smartwatch,Waterproof and stylish!,2
+477,Smartwatch,Stylus works beautifully!,4
+478,Tablet,Touchpad is very unresponsive.,-1
+479,Tablet,Crashed on the first day! Unbelievable.,1
+480,Smartwatch,Slow performance and keeps freezing,3
+481,Smartwatch,Garbage! Never buying again!,1
+482,Laptop,Waterproof and stylish!,6
+483,Laptop,Best purchase I've made!,4
+484,Smartwatch,Exceptional performance!,1
+485,Smartphone,Build quality feels cheap.,-1
+486,Laptop,Extremely comfortable for long hours.,2
+487,Smartwatch,Garbage! Never buying again!,-1
+488,Tablet,Best purchase I've made!,2
+489,Tablet,Touchpad is very unresponsive.,4
+490,Headphones,Best purchase I've made!,2
+491,Smartphone,Sound quality is great! But overpriced.,4
+492,Tablet,LOVE THE FEATURES! but battery drains fast,6
+493,Headphones,Decent sound quality but overpriced,5
+494,Laptop,,5
+495,Laptop,"Poor build quality, broke in a week.",6
+496,Laptop,EXCELLENT device. love it!,4
+497,Laptop,Absolutely fantastic for reading and browsing.,2
+498,Smartwatch,Extremely comfortable for long hours.,4
+499,Laptop,Waterproof and stylish!,-1
+500,Tablet,,1
+501,Tablet,Slow performance and keeps freezing,2
+502,Headphones,Decent sound quality but overpriced,2
+503,Smartphone,Best purchase I've made!,1
+504,Laptop,"Overheats like crazy, unusable!",-1
+505,Headphones,LOVE THE FEATURES! but battery drains fast,4
+506,Headphones,Best tablet ever!!!!!!!,6
+507,Headphones,Decent sound quality but overpriced,-1
+508,Smartwatch,Decent sound quality but overpriced,2
+509,Smartphone,"Overheats like crazy, unusable!",3
+510,Smartphone,"Battery lasts barely a day, not worth it.",4
+511,Laptop,Slow performance and keeps freezing,-1
+512,Laptop,Touchpad is very unresponsive.,-1
+513,Headphones,EXCELLENT device. love it!,6
+514,Smartwatch,Extremely comfortable for long hours.,3
+515,Tablet,Decent sound quality but overpriced,6
+516,Tablet,Very satisfied with the performance.,6
+517,Smartphone,"Camera is outstanding, love it!",4
+518,Smartphone,"Poor build quality, broke in a week.",-1
+519,Smartphone,"Speakers are too low, can't hear properly.",4
+520,Headphones,Crashed on the first day! Unbelievable.,3
+521,Laptop,"Overheats like crazy, unusable!",-1
+522,Headphones,Crashed on the first day! Unbelievable.,2
+523,Laptop,"Too many bugs, very disappointing.",3
+524,Tablet,"Super fast SSD, boots in seconds!",4
+525,Laptop,Stylus works beautifully!,3
+526,Laptop,Super slow! Regret buying.,6
+527,Headphones,Sound quality is great! But overpriced.,6
+528,Headphones,Extremely comfortable for long hours.,2
+529,Headphones,Super slow! Regret buying.,6
+530,Tablet,LOVE THE FEATURES! but battery drains fast,4
+531,Headphones,,4
+532,Tablet,"Fast and smooth performance, highly recommend!",1
+533,Laptop,Best purchase I've made!,6
+534,Tablet,"Poor build quality, broke in a week.",5
+535,Laptop,Exceptional performance!,4
+536,Headphones,Crashed on the first day! Unbelievable.,6
+537,Smartwatch,,4
+538,Smartwatch,LOVE THE FEATURES! but battery drains fast,6
+539,Laptop,Waterproof and stylish!,3
+540,Headphones,EXCELLENT device. love it!,6
+541,Smartwatch,EXCELLENT device. love it!,4
+542,Tablet,Touchpad is very unresponsive.,3
+543,Laptop,"Speakers are too low, can't hear properly.",5
+544,Laptop,Absolutely fantastic for reading and browsing.,-1
+545,Tablet,"Bad product, worst ever!",-1
+546,Headphones,"Overheats like crazy, unusable!",2
+547,Laptop,"Overheats like crazy, unusable!",2
+548,Smartphone,Exceptional performance!,2
+549,Headphones,Stylus works beautifully!,4
+550,Smartwatch,Best purchase I've made!,1
+551,Tablet,Best purchase I've made!,3
+552,Smartwatch,EXCELLENT device. love it!,2
+553,Smartwatch,,3
+554,Headphones,"Too many bugs, very disappointing.",3
+555,Headphones,Super slow! Regret buying.,1
+556,Tablet,Waterproof and stylish!,1
+557,Smartphone,Great battery life and amazing camera!,1
+558,Tablet,"Battery lasts barely a day, not worth it.",1
+559,Tablet,"Camera is outstanding, love it!",2
+560,Smartwatch,EXCELLENT device. love it!,3
+561,Smartwatch,Slow performance and keeps freezing,4
+562,Tablet,Too expensive for the specs it offers.,6
+563,Headphones,"Too many bugs, very disappointing.",-1
+564,Tablet,Touchpad is very unresponsive.,3
+565,Tablet,Stylus works beautifully!,2
+566,Tablet,"Speakers are too low, can't hear properly.",1
+567,Smartwatch,,6
+568,Smartwatch,Notifications are very slow to appear.,4
+569,Smartphone,LOVE THE FEATURES! but battery drains fast,6
+570,Smartphone,Too expensive for the specs it offers.,6
+571,Smartwatch,Super slow! Regret buying.,2
+572,Smartphone,Build quality feels cheap.,1
+573,Tablet,Best purchase I've made!,-1
+574,Laptop,"Poor build quality, broke in a week.",5
+575,Tablet,"Poor build quality, broke in a week.",-1
+576,Smartphone,Sound quality is great! But overpriced.,4
+577,Laptop,"Bad product, worst ever!",1
+578,Tablet,"Too many bugs, very disappointing.",5
+579,Laptop,Best purchase I've made!,1
+580,Laptop,Best tablet ever!!!!!!!,3
+581,Headphones,Super slow! Regret buying.,2
+582,Smartwatch,Touchpad is very unresponsive.,5
+583,Smartphone,Too expensive for the specs it offers.,3
+584,Smartphone,EXCELLENT device. love it!,6
+585,Smartphone,Very satisfied with the performance.,-1
+586,Headphones,Notifications are very slow to appear.,4
+587,Headphones,"Fast and smooth performance, highly recommend!",5
+588,Smartwatch,"Too many bugs, very disappointing.",-1
+589,Headphones,"Speakers are too low, can't hear properly.",2
+590,Tablet,Waterproof and stylish!,5
+591,Headphones,Charges super fast!,6
+592,Smartwatch,"Poor build quality, broke in a week.",4
+593,Headphones,EXCELLENT device. love it!,1
+594,Smartphone,Waterproof and stylish!,6
+595,Laptop,Great battery life and amazing camera!,3
+596,Tablet,Sound quality is great! But overpriced.,4
+597,Headphones,Absolutely fantastic for reading and browsing.,5
+598,Smartwatch,Exceptional performance!,2
+599,Tablet,Stylus works beautifully!,6
+600,Smartwatch,Too expensive for the specs it offers.,2
+601,Headphones,Build quality feels cheap.,5
+602,Smartwatch,LOVE THE FEATURES! but battery drains fast,4
+603,Smartphone,"Bad product, worst ever!",-1
+604,Tablet,Decent sound quality but overpriced,1
+605,Headphones,Crashed on the first day! Unbelievable.,3
+606,Smartwatch,Touchpad is very unresponsive.,3
+607,Laptop,Build quality feels cheap.,5
+608,Headphones,"Super fast SSD, boots in seconds!",4
+609,Tablet,Waterproof and stylish!,1
+610,Smartphone,Waterproof and stylish!,6
+611,Headphones,Extremely comfortable for long hours.,4
+612,Smartwatch,Exceptional performance!,1
+613,Headphones,"Overheats like crazy, unusable!",2
+614,Headphones,Charges super fast!,3
+615,Smartphone,Stylus works beautifully!,6
+616,Smartphone,Extremely comfortable for long hours.,-1
+617,Smartphone,Super slow! Regret buying.,1
+618,Smartphone,Exceptional performance!,-1
+619,Headphones,Notifications are very slow to appear.,6
+620,Smartwatch,Noise isolation is perfect!,5
+621,Smartwatch,Extremely comfortable for long hours.,2
+622,Headphones,Crashed on the first day! Unbelievable.,1
+623,Smartwatch,Waterproof and stylish!,6
+624,Laptop,Best tablet ever!!!!!!!,-1
+625,Headphones,"Poor build quality, broke in a week.",4
+626,Laptop,EXCELLENT device. love it!,4
+627,Smartphone,,1
+628,Tablet,Slow performance and keeps freezing,1
+629,Tablet,"Bad product, worst ever!",3
+630,Headphones,Noise isolation is perfect!,6
+631,Tablet,Best tablet ever!!!!!!!,3
+632,Headphones,Garbage! Never buying again!,-1
+633,Tablet,Garbage! Never buying again!,2
+634,Tablet,,-1
+635,Tablet,Waterproof and stylish!,4
+636,Tablet,LOVE THE FEATURES! but battery drains fast,5
+637,Headphones,Too expensive for the specs it offers.,2
+638,Tablet,Super slow! Regret buying.,2
+639,Smartphone,"Super fast SSD, boots in seconds!",1
+640,Smartwatch,"Too many bugs, very disappointing.",2
+641,Tablet,Garbage! Never buying again!,6
+642,Headphones,Exceptional performance!,5
+643,Smartwatch,Stylus works beautifully!,3
+644,Headphones,Crashed on the first day! Unbelievable.,-1
+645,Smartwatch,Too expensive for the specs it offers.,2
+646,Headphones,Noise isolation is perfect!,3
+647,Smartwatch,"Overheats like crazy, unusable!",-1
+648,Tablet,"Fast and smooth performance, highly recommend!",6
+649,Smartwatch,Very satisfied with the performance.,3
+650,Laptop,Absolutely fantastic for reading and browsing.,4
+651,Headphones,Sound quality is great! But overpriced.,6
+652,Smartwatch,Charges super fast!,6
+653,Headphones,Sound quality is great! But overpriced.,2
+654,Smartphone,"Speakers are too low, can't hear properly.",6
+655,Headphones,Build quality feels cheap.,2
+656,Laptop,Build quality feels cheap.,3
+657,Headphones,Crashed on the first day! Unbelievable.,4
+658,Headphones,Build quality feels cheap.,5
+659,Tablet,Best purchase I've made!,-1
+660,Tablet,Garbage! Never buying again!,5
+661,Smartphone,Crashed on the first day! Unbelievable.,5
+662,Smartwatch,"Speakers are too low, can't hear properly.",1
+663,Headphones,Too expensive for the specs it offers.,-1
+664,Laptop,,1
+665,Smartwatch,Slow performance and keeps freezing,-1
+666,Smartphone,Slow performance and keeps freezing,5
+667,Tablet,Waterproof and stylish!,2
+668,Smartphone,Very satisfied with the performance.,2
+669,Laptop,LOVE THE FEATURES! but battery drains fast,6
+670,Smartphone,"Fast and smooth performance, highly recommend!",-1
+671,Laptop,"Too many bugs, very disappointing.",-1
+672,Laptop,Best purchase I've made!,-1
+673,Smartphone,"Battery lasts barely a day, not worth it.",5
+674,Smartphone,Great battery life and amazing camera!,-1
+675,Tablet,,2
+676,Smartphone,"Speakers are too low, can't hear properly.",6
+677,Smartwatch,"Overheats like crazy, unusable!",3
+678,Smartphone,"Speakers are too low, can't hear properly.",5
+679,Smartwatch,"Camera is outstanding, love it!",4
+680,Headphones,"Overheats like crazy, unusable!",5
+681,Tablet,Exceptional performance!,1
+682,Tablet,Super slow! Regret buying.,4
+683,Headphones,Best tablet ever!!!!!!!,6
+684,Smartwatch,Great battery life and amazing camera!,3
+685,Headphones,Build quality feels cheap.,2
+686,Smartwatch,Garbage! Never buying again!,5
+687,Headphones,"Too many bugs, very disappointing.",1
+688,Tablet,"Camera is outstanding, love it!",-1
+689,Tablet,Super slow! Regret buying.,5
+690,Tablet,"Poor build quality, broke in a week.",3
+691,Smartwatch,,1
+692,Laptop,,1
+693,Smartwatch,Extremely comfortable for long hours.,-1
+694,Smartphone,,4
+695,Smartwatch,Extremely comfortable for long hours.,3
+696,Tablet,Noise isolation is perfect!,-1
+697,Headphones,"Poor build quality, broke in a week.",6
+698,Smartphone,"Battery lasts barely a day, not worth it.",4
+699,Smartphone,Very satisfied with the performance.,2
+700,Headphones,Very satisfied with the performance.,4
+701,Tablet,"Battery lasts barely a day, not worth it.",5
+702,Smartphone,"Bad product, worst ever!",2
+703,Headphones,"Camera is outstanding, love it!",6
+704,Smartphone,"Battery lasts barely a day, not worth it.",1
+705,Tablet,Waterproof and stylish!,6
+706,Smartwatch,Absolutely fantastic for reading and browsing.,6
+707,Smartphone,LOVE THE FEATURES! but battery drains fast,2
+708,Smartwatch,Crashed on the first day! Unbelievable.,4
+709,Headphones,Slow performance and keeps freezing,-1
+710,Smartphone,"Camera is outstanding, love it!",3
+711,Tablet,"Super fast SSD, boots in seconds!",3
+712,Smartphone,Great battery life and amazing camera!,1
+713,Laptop,Very satisfied with the performance.,2
+714,Smartwatch,Decent sound quality but overpriced,3
+715,Tablet,Super slow! Regret buying.,-1
+716,Smartwatch,Garbage! Never buying again!,4
+717,Smartphone,Decent sound quality but overpriced,1
+718,Smartphone,Exceptional performance!,5
+719,Smartwatch,Notifications are very slow to appear.,6
+720,Smartwatch,Touchpad is very unresponsive.,4
+721,Smartwatch,,5
+722,Headphones,Build quality feels cheap.,1
+723,Tablet,"Camera is outstanding, love it!",2
+724,Laptop,Absolutely fantastic for reading and browsing.,5
+725,Tablet,Build quality feels cheap.,3
+726,Laptop,Build quality feels cheap.,6
+727,Smartwatch,Too expensive for the specs it offers.,2
+728,Headphones,Best purchase I've made!,4
+729,Headphones,Extremely comfortable for long hours.,1
+730,Tablet,"Overheats like crazy, unusable!",5
+731,Tablet,Notifications are very slow to appear.,3
+732,Tablet,Crashed on the first day! Unbelievable.,1
+733,Laptop,Slow performance and keeps freezing,1
+734,Smartphone,"Poor build quality, broke in a week.",6
+735,Headphones,Stylus works beautifully!,4
+736,Headphones,"Speakers are too low, can't hear properly.",-1
+737,Headphones,Charges super fast!,6
+738,Laptop,Best tablet ever!!!!!!!,-1
+739,Tablet,Noise isolation is perfect!,1
+740,Smartphone,Crashed on the first day! Unbelievable.,1
+741,Smartphone,Waterproof and stylish!,1
+742,Smartwatch,EXCELLENT device. love it!,4
+743,Tablet,LOVE THE FEATURES! but battery drains fast,2
+744,Smartwatch,LOVE THE FEATURES! but battery drains fast,3
+745,Smartphone,"Camera is outstanding, love it!",2
+746,Smartwatch,"Bad product, worst ever!",2
+747,Tablet,,1
+748,Laptop,,6
+749,Laptop,Stylus works beautifully!,3
+750,Tablet,Stylus works beautifully!,-1
+751,Headphones,"Too many bugs, very disappointing.",5
+752,Smartphone,"Speakers are too low, can't hear properly.",3
+753,Smartwatch,Super slow! Regret buying.,5
+754,Smartphone,Absolutely fantastic for reading and browsing.,2
+755,Smartwatch,Stylus works beautifully!,-1
+756,Smartwatch,Too expensive for the specs it offers.,1
+757,Smartphone,Best purchase I've made!,1
+758,Tablet,"Camera is outstanding, love it!",2
+759,Tablet,Build quality feels cheap.,3
+760,Smartphone,Charges super fast!,2
+761,Smartphone,"Fast and smooth performance, highly recommend!",1
+762,Headphones,LOVE THE FEATURES! but battery drains fast,-1
+763,Smartwatch,Garbage! Never buying again!,1
+764,Tablet,Slow performance and keeps freezing,5
+765,Tablet,Best tablet ever!!!!!!!,-1
+766,Smartwatch,LOVE THE FEATURES! but battery drains fast,-1
+767,Tablet,"Super fast SSD, boots in seconds!",3
+768,Smartphone,"Too many bugs, very disappointing.",6
+769,Smartwatch,Notifications are very slow to appear.,4
+770,Tablet,Garbage! Never buying again!,2
+771,Smartphone,"Speakers are too low, can't hear properly.",-1
+772,Smartphone,"Poor build quality, broke in a week.",1
+773,Laptop,Notifications are very slow to appear.,6
+774,Laptop,"Bad product, worst ever!",5
+775,Smartwatch,Super slow! Regret buying.,6
+776,Smartphone,Best tablet ever!!!!!!!,1
+777,Laptop,LOVE THE FEATURES! but battery drains fast,3
+778,Laptop,Best purchase I've made!,1
+779,Smartwatch,Very satisfied with the performance.,5
+780,Smartwatch,EXCELLENT device. love it!,3
+781,Tablet,Exceptional performance!,3
+782,Headphones,,1
+783,Smartphone,Waterproof and stylish!,5
+784,Smartphone,Crashed on the first day! Unbelievable.,4
+785,Laptop,Too expensive for the specs it offers.,6
+786,Laptop,,1
+787,Headphones,Build quality feels cheap.,6
+788,Laptop,"Poor build quality, broke in a week.",-1
+789,Smartwatch,EXCELLENT device. love it!,2
+790,Tablet,Touchpad is very unresponsive.,5
+791,Headphones,Stylus works beautifully!,2
+792,Laptop,Build quality feels cheap.,6
+793,Smartphone,Super slow! Regret buying.,4
+794,Headphones,Build quality feels cheap.,5
+795,Laptop,"Battery lasts barely a day, not worth it.",4
+796,Tablet,Stylus works beautifully!,4
+797,Tablet,"Super fast SSD, boots in seconds!",2
+798,Laptop,Exceptional performance!,3
+799,Headphones,,3
+800,Smartphone,"Too many bugs, very disappointing.",5
+801,Laptop,Notifications are very slow to appear.,5
+802,Tablet,LOVE THE FEATURES! but battery drains fast,3
+803,Headphones,"Battery lasts barely a day, not worth it.",1
+804,Tablet,LOVE THE FEATURES! but battery drains fast,1
+805,Headphones,Best tablet ever!!!!!!!,2
+806,Smartphone,,6
+807,Smartphone,EXCELLENT device. love it!,5
+808,Tablet,"Too many bugs, very disappointing.",4
+809,Smartphone,"Too many bugs, very disappointing.",2
+810,Headphones,Touchpad is very unresponsive.,3
+811,Smartphone,Crashed on the first day! Unbelievable.,1
+812,Smartwatch,Build quality feels cheap.,2
+813,Smartwatch,"Speakers are too low, can't hear properly.",6
+814,Tablet,Very satisfied with the performance.,-1
+815,Headphones,Slow performance and keeps freezing,2
+816,Laptop,Waterproof and stylish!,3
+817,Smartphone,Best purchase I've made!,3
+818,Laptop,Touchpad is very unresponsive.,6
+819,Smartphone,Super slow! Regret buying.,5
+820,Tablet,Touchpad is very unresponsive.,6
+821,Smartphone,Touchpad is very unresponsive.,1
+822,Headphones,Slow performance and keeps freezing,6
+823,Tablet,"Poor build quality, broke in a week.",3
+824,Headphones,"Fast and smooth performance, highly recommend!",2
+825,Headphones,Best purchase I've made!,3
+826,Laptop,EXCELLENT device. love it!,6
+827,Smartwatch,"Fast and smooth performance, highly recommend!",4
+828,Headphones,Slow performance and keeps freezing,1
+829,Laptop,"Poor build quality, broke in a week.",5
+830,Laptop,Build quality feels cheap.,1
+831,Smartphone,Waterproof and stylish!,6
+832,Smartphone,Too expensive for the specs it offers.,1
+833,Smartwatch,Decent sound quality but overpriced,5
+834,Laptop,Best tablet ever!!!!!!!,2
+835,Smartphone,"Bad product, worst ever!",3
+836,Tablet,Best purchase I've made!,1
+837,Smartwatch,Exceptional performance!,1
+838,Tablet,"Camera is outstanding, love it!",5
+839,Smartwatch,Touchpad is very unresponsive.,3
+840,Laptop,"Super fast SSD, boots in seconds!",5
+841,Smartwatch,Waterproof and stylish!,5
+842,Smartwatch,Very satisfied with the performance.,4
+843,Tablet,EXCELLENT device. love it!,3
+844,Smartphone,Garbage! Never buying again!,-1
+845,Headphones,Notifications are very slow to appear.,6
+846,Smartphone,Stylus works beautifully!,4
+847,Smartwatch,Exceptional performance!,1
+848,Headphones,Extremely comfortable for long hours.,5
+849,Tablet,Too expensive for the specs it offers.,6
+850,Smartwatch,Very satisfied with the performance.,1
+851,Laptop,Charges super fast!,-1
+852,Tablet,Waterproof and stylish!,2
+853,Smartwatch,Notifications are very slow to appear.,1
+854,Tablet,"Fast and smooth performance, highly recommend!",-1
+855,Smartwatch,Extremely comfortable for long hours.,-1
+856,Headphones,Best purchase I've made!,1
+857,Smartwatch,Absolutely fantastic for reading and browsing.,4
+858,Tablet,Too expensive for the specs it offers.,-1
+859,Tablet,"Super fast SSD, boots in seconds!",2
+860,Tablet,Touchpad is very unresponsive.,3
+861,Smartphone,Garbage! Never buying again!,2
+862,Laptop,"Bad product, worst ever!",2
+863,Headphones,Waterproof and stylish!,6
+864,Tablet,Touchpad is very unresponsive.,5
+865,Laptop,Notifications are very slow to appear.,1
+866,Headphones,EXCELLENT device. love it!,4
+867,Headphones,Build quality feels cheap.,1
+868,Headphones,"Camera is outstanding, love it!",5
+869,Laptop,"Poor build quality, broke in a week.",6
+870,Laptop,"Bad product, worst ever!",2
+871,Laptop,Noise isolation is perfect!,3
+872,Headphones,"Super fast SSD, boots in seconds!",5
+873,Headphones,"Camera is outstanding, love it!",6
+874,Laptop,"Speakers are too low, can't hear properly.",4
+875,Laptop,Build quality feels cheap.,5
+876,Smartphone,Slow performance and keeps freezing,-1
+877,Laptop,"Fast and smooth performance, highly recommend!",3
+878,Laptop,Super slow! Regret buying.,2
+879,Headphones,Crashed on the first day! Unbelievable.,3
+880,Smartphone,Exceptional performance!,6
+881,Smartwatch,Super slow! Regret buying.,-1
+882,Tablet,,-1
+883,Smartwatch,"Speakers are too low, can't hear properly.",3
+884,Smartwatch,EXCELLENT device. love it!,4
+885,Smartphone,Best purchase I've made!,-1
+886,Laptop,Sound quality is great! But overpriced.,6
+887,Smartwatch,Absolutely fantastic for reading and browsing.,2
+888,Smartwatch,Noise isolation is perfect!,6
+889,Tablet,"Camera is outstanding, love it!",3
+890,Tablet,,1
+891,Headphones,Noise isolation is perfect!,-1
+892,Smartphone,Sound quality is great! But overpriced.,6
+893,Smartphone,,-1
+894,Tablet,,5
+895,Headphones,Sound quality is great! But overpriced.,1
+896,Headphones,Great battery life and amazing camera!,5
+897,Laptop,Stylus works beautifully!,4
+898,Laptop,Waterproof and stylish!,5
+899,Smartwatch,Sound quality is great! But overpriced.,5
+900,Smartwatch,Exceptional performance!,4
+901,Headphones,Absolutely fantastic for reading and browsing.,1
+902,Smartphone,Super slow! Regret buying.,2
+903,Laptop,Best tablet ever!!!!!!!,5
+904,Laptop,Absolutely fantastic for reading and browsing.,5
+905,Laptop,Best tablet ever!!!!!!!,6
+906,Smartphone,,6
+907,Tablet,"Fast and smooth performance, highly recommend!",1
+908,Headphones,EXCELLENT device. love it!,5
+909,Tablet,"Bad product, worst ever!",-1
+910,Tablet,Exceptional performance!,6
+911,Tablet,Charges super fast!,-1
+912,Tablet,Great battery life and amazing camera!,2
+913,Smartphone,"Battery lasts barely a day, not worth it.",3
+914,Headphones,Great battery life and amazing camera!,2
+915,Tablet,"Too many bugs, very disappointing.",-1
+916,Smartwatch,Great battery life and amazing camera!,-1
+917,Headphones,Too expensive for the specs it offers.,6
+918,Headphones,Slow performance and keeps freezing,2
+919,Smartphone,"Camera is outstanding, love it!",2
+920,Headphones,,6
+921,Tablet,Garbage! Never buying again!,-1
+922,Laptop,EXCELLENT device. love it!,6
+923,Tablet,Exceptional performance!,-1
+924,Headphones,Build quality feels cheap.,1
+925,Laptop,Very satisfied with the performance.,2
+926,Headphones,Super slow! Regret buying.,6
+927,Smartphone,"Poor build quality, broke in a week.",-1
+928,Headphones,"Overheats like crazy, unusable!",4
+929,Smartphone,Super slow! Regret buying.,5
+930,Headphones,"Speakers are too low, can't hear properly.",5
+931,Tablet,Slow performance and keeps freezing,5
+932,Headphones,,-1
+933,Smartwatch,"Overheats like crazy, unusable!",5
+934,Laptop,"Fast and smooth performance, highly recommend!",5
+935,Headphones,,2
+936,Laptop,Charges super fast!,2
+937,Headphones,Decent sound quality but overpriced,2
+938,Smartphone,Notifications are very slow to appear.,4
+939,Smartwatch,Waterproof and stylish!,4
+940,Laptop,Waterproof and stylish!,3
+941,Laptop,"Overheats like crazy, unusable!",3
+942,Tablet,"Too many bugs, very disappointing.",-1
+943,Tablet,Waterproof and stylish!,5
+944,Smartwatch,"Bad product, worst ever!",3
+945,Smartwatch,"Too many bugs, very disappointing.",3
+946,Smartwatch,"Overheats like crazy, unusable!",5
+947,Smartwatch,Absolutely fantastic for reading and browsing.,3
+948,Tablet,EXCELLENT device. love it!,1
+949,Smartphone,"Speakers are too low, can't hear properly.",3
+950,Laptop,"Battery lasts barely a day, not worth it.",1
+951,Headphones,"Speakers are too low, can't hear properly.",-1
+952,Smartphone,Exceptional performance!,-1
+953,Tablet,Touchpad is very unresponsive.,2
+954,Smartwatch,Crashed on the first day! Unbelievable.,2
+955,Headphones,Too expensive for the specs it offers.,6
+956,Laptop,Slow performance and keeps freezing,3
+957,Tablet,Extremely comfortable for long hours.,4
+958,Smartwatch,Slow performance and keeps freezing,5
+959,Tablet,,5
+960,Tablet,Very satisfied with the performance.,5
+961,Headphones,"Camera is outstanding, love it!",3
+962,Smartphone,"Super fast SSD, boots in seconds!",2
+963,Laptop,"Super fast SSD, boots in seconds!",3
+964,Smartphone,Stylus works beautifully!,-1
+965,Smartwatch,,2
+966,Laptop,Too expensive for the specs it offers.,5
+967,Headphones,Sound quality is great! But overpriced.,2
+968,Headphones,"Overheats like crazy, unusable!",1
+969,Headphones,"Fast and smooth performance, highly recommend!",3
+970,Headphones,Great battery life and amazing camera!,5
+971,Laptop,Absolutely fantastic for reading and browsing.,3
+972,Tablet,"Poor build quality, broke in a week.",6
+973,Smartwatch,Great battery life and amazing camera!,2
+974,Smartwatch,"Battery lasts barely a day, not worth it.",2
+975,Smartphone,Charges super fast!,-1
+976,Smartphone,Great battery life and amazing camera!,4
+977,Smartphone,Best purchase I've made!,2
+978,Smartwatch,,6
+979,Tablet,Too expensive for the specs it offers.,-1
+980,Headphones,Charges super fast!,6
+981,Tablet,Garbage! Never buying again!,1
+982,Smartwatch,Too expensive for the specs it offers.,-1
+983,Headphones,Touchpad is very unresponsive.,2
+984,Laptop,Super slow! Regret buying.,5
+985,Tablet,Exceptional performance!,3
+986,Headphones,"Super fast SSD, boots in seconds!",4
+987,Smartwatch,"Fast and smooth performance, highly recommend!",-1
+988,Laptop,Exceptional performance!,5
+989,Laptop,Noise isolation is perfect!,5
+990,Smartphone,"Too many bugs, very disappointing.",2
+991,Smartphone,Garbage! Never buying again!,2
+992,Smartphone,Noise isolation is perfect!,1
+993,Smartwatch,"Poor build quality, broke in a week.",1
+994,Laptop,"Overheats like crazy, unusable!",3
+995,Headphones,"Speakers are too low, can't hear properly.",5
+996,Smartwatch,Waterproof and stylish!,3
+997,Smartwatch,"Camera is outstanding, love it!",-1
+998,Tablet,Decent sound quality but overpriced,-1
+999,Tablet,"Too many bugs, very disappointing.",3
+1000,Tablet,Best tablet ever!!!!!!!,3
+1001,Laptop,Touchpad is very unresponsive.,4
+1002,Tablet,Touchpad is very unresponsive.,5
+1003,Laptop,Charges super fast!,4
+1004,Smartwatch,"Too many bugs, very disappointing.",3
+1005,Laptop,"Battery lasts barely a day, not worth it.",4
+1006,Smartwatch,Best purchase I've made!,2
+1007,Tablet,"Speakers are too low, can't hear properly.",-1
+1008,Smartphone,"Speakers are too low, can't hear properly.",3
+1009,Laptop,Slow performance and keeps freezing,5
+1010,Smartphone,Waterproof and stylish!,6
+1011,Smartwatch,Waterproof and stylish!,5
+1012,Smartphone,LOVE THE FEATURES! but battery drains fast,-1
+1013,Smartwatch,Charges super fast!,6
+1014,Headphones,Noise isolation is perfect!,6
+1015,Smartphone,Slow performance and keeps freezing,3
+1016,Tablet,Exceptional performance!,-1
+1017,Tablet,Decent sound quality but overpriced,1
+1018,Smartwatch,"Speakers are too low, can't hear properly.",3
+1019,Tablet,"Camera is outstanding, love it!",1
+1020,Smartphone,Touchpad is very unresponsive.,2
+1021,Tablet,Slow performance and keeps freezing,6
+1022,Tablet,Best purchase I've made!,2
+1023,Laptop,"Overheats like crazy, unusable!",4
+1024,Smartphone,Super slow! Regret buying.,1
+1025,Smartwatch,Charges super fast!,3
+1026,Headphones,"Speakers are too low, can't hear properly.",3
+1027,Smartwatch,Waterproof and stylish!,5
+1028,Headphones,Decent sound quality but overpriced,6
+1029,Laptop,Very satisfied with the performance.,4
+1030,Laptop,"Bad product, worst ever!",1
+1031,Headphones,Slow performance and keeps freezing,2
+1032,Smartwatch,"Poor build quality, broke in a week.",1
+1033,Laptop,Stylus works beautifully!,4
+1034,Headphones,Best purchase I've made!,1
+1035,Smartwatch,Best tablet ever!!!!!!!,5
+1036,Laptop,Garbage! Never buying again!,3
+1037,Tablet,Sound quality is great! But overpriced.,3
+1038,Tablet,Exceptional performance!,4
+1039,Tablet,Slow performance and keeps freezing,6
+1040,Tablet,Touchpad is very unresponsive.,4
+1041,Headphones,,-1
+1042,Headphones,"Overheats like crazy, unusable!",1
+1043,Smartphone,Build quality feels cheap.,5
+1044,Tablet,Notifications are very slow to appear.,3
+1045,Tablet,,2
+1046,Laptop,"Overheats like crazy, unusable!",1
+1047,Laptop,Extremely comfortable for long hours.,5
+1048,Smartphone,LOVE THE FEATURES! but battery drains fast,1
+1049,Tablet,Too expensive for the specs it offers.,3
+1050,Smartwatch,Best tablet ever!!!!!!!,3
+1051,Laptop,,4
+1052,Smartwatch,Decent sound quality but overpriced,5
+1053,Smartwatch,Crashed on the first day! Unbelievable.,5
+1054,Smartphone,Very satisfied with the performance.,-1
+1055,Headphones,"Too many bugs, very disappointing.",2
+1056,Smartwatch,"Battery lasts barely a day, not worth it.",5
+1057,Smartphone,Decent sound quality but overpriced,2
+1058,Smartwatch,Best purchase I've made!,4
+1059,Smartwatch,"Fast and smooth performance, highly recommend!",4
+1060,Smartwatch,Very satisfied with the performance.,2
+1061,Laptop,Crashed on the first day! Unbelievable.,4
+1062,Tablet,"Bad product, worst ever!",3
+1063,Headphones,Touchpad is very unresponsive.,3
+1064,Smartwatch,"Speakers are too low, can't hear properly.",-1
+1065,Laptop,"Battery lasts barely a day, not worth it.",1
+1066,Tablet,Very satisfied with the performance.,4
+1067,Smartphone,"Poor build quality, broke in a week.",6
+1068,Smartphone,Great battery life and amazing camera!,2
+1069,Laptop,Absolutely fantastic for reading and browsing.,1
+1070,Tablet,Garbage! Never buying again!,3
+1071,Smartwatch,EXCELLENT device. love it!,4
+1072,Headphones,Best purchase I've made!,5
+1073,Headphones,Extremely comfortable for long hours.,4
+1074,Laptop,Too expensive for the specs it offers.,5
+1075,Laptop,Sound quality is great! But overpriced.,5
+1076,Laptop,Waterproof and stylish!,3
+1077,Headphones,Garbage! Never buying again!,4
+1078,Laptop,EXCELLENT device. love it!,3
+1079,Smartphone,Extremely comfortable for long hours.,-1
+1080,Smartphone,Waterproof and stylish!,6
+1081,Laptop,Extremely comfortable for long hours.,5
+1082,Laptop,Crashed on the first day! Unbelievable.,4
+1083,Tablet,"Overheats like crazy, unusable!",6
+1084,Tablet,Very satisfied with the performance.,6
+1085,Laptop,"Too many bugs, very disappointing.",3
+1086,Smartphone,Best tablet ever!!!!!!!,6
+1087,Smartphone,LOVE THE FEATURES! but battery drains fast,2
+1088,Tablet,Exceptional performance!,4
+1089,Smartphone,,-1
+1090,Laptop,Charges super fast!,-1
+1091,Laptop,LOVE THE FEATURES! but battery drains fast,4
+1092,Smartphone,Garbage! Never buying again!,6
+1093,Smartwatch,LOVE THE FEATURES! but battery drains fast,5
+1094,Smartwatch,Crashed on the first day! Unbelievable.,1
+1095,Smartwatch,Build quality feels cheap.,2
+1096,Headphones,Slow performance and keeps freezing,1
+1097,Smartphone,Charges super fast!,3
+1098,Tablet,Decent sound quality but overpriced,3
+1099,Headphones,"Bad product, worst ever!",3
+1100,Headphones,Great battery life and amazing camera!,1
+1101,Headphones,"Bad product, worst ever!",5
+1102,Smartphone,"Super fast SSD, boots in seconds!",3
+1103,Headphones,Great battery life and amazing camera!,1
+1104,Laptop,Build quality feels cheap.,4
+1105,Smartwatch,Crashed on the first day! Unbelievable.,3
+1106,Smartwatch,Best tablet ever!!!!!!!,5
+1107,Laptop,Waterproof and stylish!,5
+1108,Smartwatch,Very satisfied with the performance.,2
+1109,Laptop,Great battery life and amazing camera!,3
+1110,Tablet,Garbage! Never buying again!,1
+1111,Laptop,Charges super fast!,5
+1112,Headphones,Waterproof and stylish!,-1
+1113,Tablet,Sound quality is great! But overpriced.,2
+1114,Tablet,Very satisfied with the performance.,3
+1115,Headphones,Garbage! Never buying again!,3
+1116,Laptop,EXCELLENT device. love it!,1
+1117,Tablet,"Bad product, worst ever!",6
+1118,Smartphone,LOVE THE FEATURES! but battery drains fast,4
+1119,Smartphone,"Poor build quality, broke in a week.",-1
+1120,Headphones,Slow performance and keeps freezing,-1
+1121,Smartwatch,Best tablet ever!!!!!!!,1
+1122,Headphones,Extremely comfortable for long hours.,6
+1123,Tablet,"Super fast SSD, boots in seconds!",-1
+1124,Smartphone,Very satisfied with the performance.,-1
+1125,Laptop,Very satisfied with the performance.,1
+1126,Tablet,Great battery life and amazing camera!,5
+1127,Laptop,Decent sound quality but overpriced,2
+1128,Smartphone,"Super fast SSD, boots in seconds!",4
+1129,Laptop,"Battery lasts barely a day, not worth it.",1
+1130,Tablet,Waterproof and stylish!,4
+1131,Smartphone,Best purchase I've made!,3
+1132,Headphones,"Battery lasts barely a day, not worth it.",3
+1133,Tablet,"Bad product, worst ever!",1
+1134,Headphones,Touchpad is very unresponsive.,6
+1135,Tablet,Too expensive for the specs it offers.,1
+1136,Smartwatch,Exceptional performance!,-1
+1137,Smartwatch,Crashed on the first day! Unbelievable.,2
+1138,Laptop,Stylus works beautifully!,4
+1139,Smartwatch,Crashed on the first day! Unbelievable.,5
+1140,Headphones,,3
+1141,Smartwatch,"Too many bugs, very disappointing.",4
+1142,Headphones,Crashed on the first day! Unbelievable.,1
+1143,Smartphone,Sound quality is great! But overpriced.,5
+1144,Tablet,,5
+1145,Smartphone,Crashed on the first day! Unbelievable.,2
+1146,Smartphone,Notifications are very slow to appear.,2
+1147,Smartwatch,"Overheats like crazy, unusable!",5
+1148,Laptop,,5
+1149,Tablet,EXCELLENT device. love it!,6
+1150,Laptop,Absolutely fantastic for reading and browsing.,6
+1151,Smartphone,Decent sound quality but overpriced,3
+1152,Headphones,"Overheats like crazy, unusable!",5
+1153,Headphones,"Poor build quality, broke in a week.",1
+1154,Headphones,"Camera is outstanding, love it!",4
+1155,Smartphone,"Overheats like crazy, unusable!",2
+1156,Headphones,"Super fast SSD, boots in seconds!",-1
+1157,Headphones,Absolutely fantastic for reading and browsing.,2
+1158,Tablet,Exceptional performance!,5
+1159,Headphones,"Overheats like crazy, unusable!",6
+1160,Laptop,Best purchase I've made!,2
+1161,Smartwatch,"Camera is outstanding, love it!",3
+1162,Smartphone,"Bad product, worst ever!",-1
+1163,Headphones,Too expensive for the specs it offers.,3
+1164,Headphones,Great battery life and amazing camera!,4
+1165,Tablet,Garbage! Never buying again!,3
+1166,Tablet,"Super fast SSD, boots in seconds!",-1
+1167,Tablet,Sound quality is great! But overpriced.,-1
+1168,Tablet,"Poor build quality, broke in a week.",6
+1169,Headphones,EXCELLENT device. love it!,2
+1170,Laptop,Exceptional performance!,4
+1171,Laptop,Absolutely fantastic for reading and browsing.,1
+1172,Headphones,"Battery lasts barely a day, not worth it.",-1
+1173,Headphones,Super slow! Regret buying.,3
+1174,Smartwatch,Noise isolation is perfect!,4
+1175,Smartphone,Build quality feels cheap.,-1
+1176,Tablet,Sound quality is great! But overpriced.,5
+1177,Smartwatch,"Battery lasts barely a day, not worth it.",2
+1178,Tablet,Waterproof and stylish!,5
+1179,Laptop,Too expensive for the specs it offers.,5
+1180,Tablet,Best tablet ever!!!!!!!,4
+1181,Tablet,"Battery lasts barely a day, not worth it.",2
+1182,Tablet,"Super fast SSD, boots in seconds!",2
+1183,Smartphone,Stylus works beautifully!,2
+1184,Headphones,"Camera is outstanding, love it!",5
+1185,Smartphone,Sound quality is great! But overpriced.,-1
+1186,Laptop,Slow performance and keeps freezing,3
+1187,Smartphone,Best tablet ever!!!!!!!,6
+1188,Smartphone,Absolutely fantastic for reading and browsing.,4
+1189,Laptop,Stylus works beautifully!,5
+1190,Tablet,Notifications are very slow to appear.,2
+1191,Smartwatch,Decent sound quality but overpriced,6
+1192,Laptop,Too expensive for the specs it offers.,5
+1193,Smartwatch,Great battery life and amazing camera!,5
+1194,Smartwatch,"Poor build quality, broke in a week.",-1
+1195,Smartwatch,Absolutely fantastic for reading and browsing.,4
+1196,Smartphone,Slow performance and keeps freezing,3
+1197,Smartphone,Best tablet ever!!!!!!!,4
+1198,Headphones,LOVE THE FEATURES! but battery drains fast,-1
+1199,Headphones,"Overheats like crazy, unusable!",-1
+1200,Headphones,Build quality feels cheap.,6
+1201,Tablet,Sound quality is great! But overpriced.,3
+1202,Smartwatch,Decent sound quality but overpriced,-1
+1203,Laptop,"Camera is outstanding, love it!",-1
+1204,Laptop,Garbage! Never buying again!,3
+1205,Tablet,Sound quality is great! But overpriced.,3
+1206,Tablet,Too expensive for the specs it offers.,6
+1207,Smartphone,Build quality feels cheap.,6
+1208,Smartwatch,EXCELLENT device. love it!,4
+1209,Tablet,Very satisfied with the performance.,2
+1210,Tablet,"Battery lasts barely a day, not worth it.",4
+1211,Headphones,Slow performance and keeps freezing,5
+1212,Smartphone,Waterproof and stylish!,-1
+1213,Tablet,Waterproof and stylish!,3
+1214,Tablet,"Super fast SSD, boots in seconds!",4
+1215,Smartphone,LOVE THE FEATURES! but battery drains fast,1
+1216,Tablet,Stylus works beautifully!,1
+1217,Smartwatch,Super slow! Regret buying.,4
+1218,Tablet,Stylus works beautifully!,2
+1219,Laptop,Charges super fast!,3
+1220,Headphones,"Bad product, worst ever!",2
+1221,Laptop,Sound quality is great! But overpriced.,-1
+1222,Smartphone,Best purchase I've made!,4
+1223,Smartphone,Too expensive for the specs it offers.,3
+1224,Tablet,"Speakers are too low, can't hear properly.",6
+1225,Laptop,Build quality feels cheap.,1
+1226,Smartwatch,Too expensive for the specs it offers.,2
+1227,Tablet,Notifications are very slow to appear.,6
+1228,Tablet,Crashed on the first day! Unbelievable.,6
+1229,Laptop,Noise isolation is perfect!,-1
+1230,Smartwatch,Stylus works beautifully!,1
+1231,Headphones,Absolutely fantastic for reading and browsing.,3
+1232,Headphones,"Speakers are too low, can't hear properly.",2
+1233,Smartphone,LOVE THE FEATURES! but battery drains fast,5
+1234,Laptop,Too expensive for the specs it offers.,4
+1235,Headphones,Absolutely fantastic for reading and browsing.,2
+1236,Smartphone,"Too many bugs, very disappointing.",1
+1237,Smartwatch,Noise isolation is perfect!,1
+1238,Tablet,Very satisfied with the performance.,4
+1239,Headphones,Decent sound quality but overpriced,2
+1240,Headphones,Very satisfied with the performance.,6
+1241,Headphones,Decent sound quality but overpriced,4
+1242,Tablet,,3
+1243,Headphones,EXCELLENT device. love it!,1
+1244,Headphones,"Camera is outstanding, love it!",6
+1245,Smartwatch,"Battery lasts barely a day, not worth it.",3
+1246,Smartwatch,Charges super fast!,4
+1247,Smartwatch,Build quality feels cheap.,1
+1248,Tablet,LOVE THE FEATURES! but battery drains fast,4
+1249,Tablet,"Fast and smooth performance, highly recommend!",6
+1250,Smartphone,"Super fast SSD, boots in seconds!",1
+1251,Smartwatch,"Speakers are too low, can't hear properly.",1
+1252,Laptop,Sound quality is great! But overpriced.,1
+1253,Smartphone,Sound quality is great! But overpriced.,1
+1254,Tablet,Noise isolation is perfect!,3
+1255,Headphones,,4
+1256,Tablet,Very satisfied with the performance.,3
+1257,Tablet,Charges super fast!,6
+1258,Laptop,Decent sound quality but overpriced,2
+1259,Smartphone,Garbage! Never buying again!,3
+1260,Headphones,"Bad product, worst ever!",1
+1261,Headphones,"Super fast SSD, boots in seconds!",2
+1262,Tablet,Too expensive for the specs it offers.,5
+1263,Smartwatch,Build quality feels cheap.,2
+1264,Smartphone,Sound quality is great! But overpriced.,1
+1265,Tablet,"Overheats like crazy, unusable!",4
+1266,Laptop,Sound quality is great! But overpriced.,3
+1267,Headphones,"Too many bugs, very disappointing.",5
+1268,Headphones,Noise isolation is perfect!,1
+1269,Smartwatch,Sound quality is great! But overpriced.,-1
+1270,Laptop,Absolutely fantastic for reading and browsing.,4
+1271,Tablet,Noise isolation is perfect!,5
+1272,Laptop,Best purchase I've made!,-1
+1273,Headphones,"Too many bugs, very disappointing.",4
+1274,Smartphone,"Poor build quality, broke in a week.",4
+1275,Tablet,Best tablet ever!!!!!!!,5
+1276,Headphones,Too expensive for the specs it offers.,6
+1277,Smartwatch,Noise isolation is perfect!,4
+1278,Laptop,Build quality feels cheap.,-1
+1279,Laptop,Absolutely fantastic for reading and browsing.,4
+1280,Tablet,Waterproof and stylish!,3
+1281,Headphones,Noise isolation is perfect!,1
+1282,Smartwatch,"Poor build quality, broke in a week.",4
+1283,Smartwatch,Best purchase I've made!,1
+1284,Headphones,Sound quality is great! But overpriced.,-1
+1285,Tablet,Great battery life and amazing camera!,5
+1286,Laptop,"Battery lasts barely a day, not worth it.",1
+1287,Laptop,Exceptional performance!,2
+1288,Smartphone,Very satisfied with the performance.,-1
+1289,Smartphone,Exceptional performance!,6
+1290,Headphones,Exceptional performance!,3
+1291,Laptop,Build quality feels cheap.,1
+1292,Tablet,Charges super fast!,2
+1293,Smartwatch,"Fast and smooth performance, highly recommend!",-1
+1294,Laptop,Extremely comfortable for long hours.,-1
+1295,Tablet,Best purchase I've made!,5
+1296,Laptop,"Bad product, worst ever!",6
+1297,Smartphone,"Camera is outstanding, love it!",6
+1298,Smartwatch,LOVE THE FEATURES! but battery drains fast,-1
+1299,Smartphone,Sound quality is great! But overpriced.,-1
+1300,Headphones,"Speakers are too low, can't hear properly.",-1
+1301,Headphones,Best tablet ever!!!!!!!,4
+1302,Smartwatch,"Poor build quality, broke in a week.",3
+1303,Headphones,Stylus works beautifully!,1
+1304,Smartphone,Best purchase I've made!,5
+1305,Smartwatch,Too expensive for the specs it offers.,2
+1306,Smartphone,"Overheats like crazy, unusable!",5
+1307,Tablet,Waterproof and stylish!,2
+1308,Smartphone,Touchpad is very unresponsive.,3
+1309,Smartwatch,Very satisfied with the performance.,5
+1310,Tablet,Notifications are very slow to appear.,-1
+1311,Headphones,Charges super fast!,1
+1312,Laptop,"Battery lasts barely a day, not worth it.",3
+1313,Headphones,"Bad product, worst ever!",3
+1314,Laptop,Notifications are very slow to appear.,3
+1315,Laptop,"Bad product, worst ever!",4
+1316,Laptop,LOVE THE FEATURES! but battery drains fast,6
+1317,Headphones,"Fast and smooth performance, highly recommend!",3
+1318,Smartphone,Garbage! Never buying again!,1
+1319,Laptop,Crashed on the first day! Unbelievable.,5
+1320,Smartphone,Too expensive for the specs it offers.,2
+1321,Smartphone,Best tablet ever!!!!!!!,4
+1322,Tablet,"Camera is outstanding, love it!",6
+1323,Tablet,Waterproof and stylish!,-1
+1324,Tablet,Notifications are very slow to appear.,5
+1325,Laptop,Stylus works beautifully!,5
+1326,Smartphone,Exceptional performance!,5
+1327,Smartwatch,Super slow! Regret buying.,5
+1328,Laptop,Too expensive for the specs it offers.,4
+1329,Smartphone,Absolutely fantastic for reading and browsing.,1
+1330,Laptop,Decent sound quality but overpriced,3
+1331,Smartwatch,"Fast and smooth performance, highly recommend!",4
+1332,Headphones,EXCELLENT device. love it!,2
+1333,Smartwatch,Noise isolation is perfect!,1
+1334,Smartphone,Garbage! Never buying again!,-1
+1335,Headphones,Extremely comfortable for long hours.,6
+1336,Laptop,EXCELLENT device. love it!,1
+1337,Smartphone,Sound quality is great! But overpriced.,1
+1338,Laptop,Exceptional performance!,1
+1339,Laptop,Sound quality is great! But overpriced.,6
+1340,Smartwatch,Very satisfied with the performance.,1
+1341,Tablet,Best purchase I've made!,1
+1342,Tablet,Too expensive for the specs it offers.,-1
+1343,Smartphone,"Camera is outstanding, love it!",3
+1344,Smartphone,Noise isolation is perfect!,1
+1345,Smartwatch,Too expensive for the specs it offers.,5
+1346,Headphones,Best tablet ever!!!!!!!,3
+1347,Tablet,Exceptional performance!,6
+1348,Tablet,"Camera is outstanding, love it!",6
+1349,Smartwatch,Noise isolation is perfect!,1
+1350,Laptop,Sound quality is great! But overpriced.,2
+1351,Laptop,"Too many bugs, very disappointing.",4
+1352,Laptop,Best tablet ever!!!!!!!,6
+1353,Smartphone,,2
+1354,Tablet,,-1
+1355,Tablet,Waterproof and stylish!,5
+1356,Smartphone,Crashed on the first day! Unbelievable.,4
+1357,Smartwatch,Super slow! Regret buying.,2
+1358,Smartphone,Great battery life and amazing camera!,5
+1359,Smartphone,Notifications are very slow to appear.,3
+1360,Tablet,Noise isolation is perfect!,5
+1361,Smartphone,Exceptional performance!,2
+1362,Tablet,Best tablet ever!!!!!!!,5
+1363,Tablet,"Speakers are too low, can't hear properly.",4
+1364,Headphones,Absolutely fantastic for reading and browsing.,3
+1365,Smartphone,Best tablet ever!!!!!!!,4
+1366,Tablet,"Fast and smooth performance, highly recommend!",6
+1367,Smartwatch,Very satisfied with the performance.,3
+1368,Smartphone,,6
+1369,Smartwatch,Sound quality is great! But overpriced.,2
+1370,Tablet,"Battery lasts barely a day, not worth it.",2
+1371,Smartphone,"Bad product, worst ever!",1
+1372,Laptop,"Battery lasts barely a day, not worth it.",5
+1373,Smartwatch,EXCELLENT device. love it!,6
+1374,Smartwatch,Absolutely fantastic for reading and browsing.,1
+1375,Smartwatch,"Camera is outstanding, love it!",4
+1376,Laptop,EXCELLENT device. love it!,3
+1377,Headphones,Slow performance and keeps freezing,3
+1378,Smartphone,,6
+1379,Headphones,Sound quality is great! But overpriced.,3
+1380,Smartphone,Best purchase I've made!,6
+1381,Laptop,Very satisfied with the performance.,-1
+1382,Headphones,Absolutely fantastic for reading and browsing.,3
+1383,Smartphone,Absolutely fantastic for reading and browsing.,4
+1384,Headphones,"Too many bugs, very disappointing.",1
+1385,Smartphone,EXCELLENT device. love it!,5
+1386,Smartphone,Sound quality is great! But overpriced.,3
+1387,Headphones,Crashed on the first day! Unbelievable.,1
+1388,Headphones,"Super fast SSD, boots in seconds!",1
+1389,Headphones,Great battery life and amazing camera!,-1
+1390,Laptop,Build quality feels cheap.,-1
+1391,Headphones,Very satisfied with the performance.,2
+1392,Laptop,"Camera is outstanding, love it!",1
+1393,Smartwatch,Garbage! Never buying again!,6
+1394,Laptop,Build quality feels cheap.,-1
+1395,Smartwatch,,3
+1396,Smartwatch,Exceptional performance!,3
+1397,Headphones,Very satisfied with the performance.,6
+1398,Smartwatch,Best tablet ever!!!!!!!,5
+1399,Laptop,Stylus works beautifully!,6
+1400,Tablet,"Overheats like crazy, unusable!",-1
+1401,Headphones,Charges super fast!,1
+1402,Tablet,Too expensive for the specs it offers.,-1
+1403,Tablet,Too expensive for the specs it offers.,4
+1404,Smartwatch,Absolutely fantastic for reading and browsing.,6
+1405,Laptop,Noise isolation is perfect!,3
+1406,Laptop,"Overheats like crazy, unusable!",6
+1407,Smartwatch,"Bad product, worst ever!",4
+1408,Laptop,Absolutely fantastic for reading and browsing.,6
+1409,Laptop,Stylus works beautifully!,6
+1410,Smartwatch,Extremely comfortable for long hours.,6
+1411,Smartphone,Decent sound quality but overpriced,5
+1412,Headphones,LOVE THE FEATURES! but battery drains fast,1
+1413,Smartwatch,"Poor build quality, broke in a week.",4
+1414,Tablet,Super slow! Regret buying.,5
+1415,Headphones,Extremely comfortable for long hours.,3
+1416,Laptop,Decent sound quality but overpriced,5
+1417,Smartwatch,Slow performance and keeps freezing,6
+1418,Smartphone,Build quality feels cheap.,4
+1419,Smartwatch,"Overheats like crazy, unusable!",6
+1420,Laptop,Absolutely fantastic for reading and browsing.,5
+1421,Headphones,"Bad product, worst ever!",6
+1422,Laptop,"Too many bugs, very disappointing.",4
+1423,Tablet,"Battery lasts barely a day, not worth it.",4
+1424,Tablet,Charges super fast!,2
+1425,Tablet,Absolutely fantastic for reading and browsing.,5
+1426,Headphones,Touchpad is very unresponsive.,1
+1427,Smartwatch,Best purchase I've made!,1
+1428,Smartwatch,Too expensive for the specs it offers.,5
+1429,Headphones,Very satisfied with the performance.,5
+1430,Tablet,Build quality feels cheap.,1
+1431,Tablet,EXCELLENT device. love it!,1
+1432,Tablet,EXCELLENT device. love it!,1
+1433,Laptop,"Too many bugs, very disappointing.",6
+1434,Laptop,Waterproof and stylish!,6
+1435,Smartwatch,Noise isolation is perfect!,3
+1436,Headphones,Best tablet ever!!!!!!!,1
+1437,Smartphone,Build quality feels cheap.,2
+1438,Smartwatch,Decent sound quality but overpriced,4
+1439,Smartphone,"Speakers are too low, can't hear properly.",-1
+1440,Smartphone,Best tablet ever!!!!!!!,-1
+1441,Headphones,"Bad product, worst ever!",6
+1442,Smartphone,Super slow! Regret buying.,-1
+1443,Tablet,Exceptional performance!,3
+1444,Smartphone,Too expensive for the specs it offers.,5
+1445,Smartwatch,Decent sound quality but overpriced,6
+1446,Smartphone,LOVE THE FEATURES! but battery drains fast,-1
+1447,Headphones,Too expensive for the specs it offers.,4
+1448,Headphones,Noise isolation is perfect!,-1
+1449,Smartwatch,Best tablet ever!!!!!!!,5
+1450,Smartphone,Touchpad is very unresponsive.,3
+1451,Smartwatch,Best purchase I've made!,6
+1452,Smartphone,"Speakers are too low, can't hear properly.",5
+1453,Smartphone,,2
+1454,Smartphone,Charges super fast!,-1
+1455,Tablet,"Speakers are too low, can't hear properly.",1
+1456,Laptop,Too expensive for the specs it offers.,1
+1457,Smartphone,Too expensive for the specs it offers.,2
+1458,Smartwatch,"Super fast SSD, boots in seconds!",4
+1459,Smartphone,Best tablet ever!!!!!!!,3
+1460,Smartwatch,"Camera is outstanding, love it!",3
+1461,Tablet,Slow performance and keeps freezing,2
+1462,Smartwatch,Decent sound quality but overpriced,3
+1463,Laptop,EXCELLENT device. love it!,-1
+1464,Tablet,Extremely comfortable for long hours.,2
+1465,Headphones,Best tablet ever!!!!!!!,-1
+1466,Smartwatch,Super slow! Regret buying.,-1
+1467,Laptop,"Speakers are too low, can't hear properly.",4
+1468,Smartwatch,Absolutely fantastic for reading and browsing.,1
+1469,Smartphone,Exceptional performance!,5
+1470,Headphones,Garbage! Never buying again!,4
+1471,Smartwatch,LOVE THE FEATURES! but battery drains fast,4
+1472,Smartwatch,Extremely comfortable for long hours.,1
+1473,Tablet,"Too many bugs, very disappointing.",3
+1474,Headphones,Sound quality is great! But overpriced.,5
+1475,Smartwatch,,-1
+1476,Smartwatch,"Too many bugs, very disappointing.",4
+1477,Laptop,Notifications are very slow to appear.,2
+1478,Smartphone,Decent sound quality but overpriced,1
+1479,Smartphone,Noise isolation is perfect!,1
+1480,Smartwatch,Garbage! Never buying again!,5
+1481,Headphones,Very satisfied with the performance.,3
+1482,Headphones,,-1
+1483,Tablet,Waterproof and stylish!,6
+1484,Laptop,Garbage! Never buying again!,-1
+1485,Laptop,Touchpad is very unresponsive.,5
+1486,Smartwatch,Slow performance and keeps freezing,5
+1487,Tablet,Exceptional performance!,3
+1488,Laptop,Sound quality is great! But overpriced.,1
+1489,Smartwatch,Too expensive for the specs it offers.,6
+1490,Smartphone,Noise isolation is perfect!,1
+1491,Laptop,Great battery life and amazing camera!,6
+1492,Laptop,"Overheats like crazy, unusable!",1
+1493,Tablet,Slow performance and keeps freezing,4
+1494,Headphones,"Super fast SSD, boots in seconds!",-1
+1495,Laptop,Touchpad is very unresponsive.,3
+1496,Smartphone,Stylus works beautifully!,5
+1497,Headphones,Extremely comfortable for long hours.,6
+1498,Tablet,"Overheats like crazy, unusable!",2
+1499,Smartwatch,Decent sound quality but overpriced,1
+1500,Smartphone,Very satisfied with the performance.,2
+1501,Smartphone,Absolutely fantastic for reading and browsing.,4
+1502,Laptop,Charges super fast!,6
+1503,Headphones,Very satisfied with the performance.,4
+1504,Laptop,,5
+1505,Tablet,"Speakers are too low, can't hear properly.",1
+1506,Smartphone,Absolutely fantastic for reading and browsing.,5
+1507,Tablet,Decent sound quality but overpriced,3
+1508,Headphones,Charges super fast!,3
+1509,Smartwatch,,1
+1510,Laptop,Exceptional performance!,4
+1511,Laptop,"Bad product, worst ever!",4
+1512,Smartwatch,Super slow! Regret buying.,1
+1513,Tablet,Charges super fast!,-1
+1514,Smartphone,"Bad product, worst ever!",6
+1515,Smartwatch,"Camera is outstanding, love it!",-1
+1516,Laptop,LOVE THE FEATURES! but battery drains fast,3
+1517,Tablet,Absolutely fantastic for reading and browsing.,6
+1518,Smartwatch,Charges super fast!,2
+1519,Smartphone,Touchpad is very unresponsive.,-1
+1520,Headphones,Waterproof and stylish!,2
+1521,Smartphone,"Too many bugs, very disappointing.",5
+1522,Smartwatch,Too expensive for the specs it offers.,6
+1523,Tablet,Extremely comfortable for long hours.,2
+1524,Smartphone,Noise isolation is perfect!,1
+1525,Laptop,"Speakers are too low, can't hear properly.",6
+1526,Smartphone,"Battery lasts barely a day, not worth it.",6
+1527,Tablet,Crashed on the first day! Unbelievable.,-1
+1528,Laptop,"Fast and smooth performance, highly recommend!",-1
+1529,Smartwatch,"Overheats like crazy, unusable!",3
+1530,Smartwatch,Best tablet ever!!!!!!!,4
+1531,Headphones,LOVE THE FEATURES! but battery drains fast,-1
+1532,Smartphone,Charges super fast!,4
+1533,Headphones,Garbage! Never buying again!,5
+1534,Smartwatch,Build quality feels cheap.,2
+1535,Smartphone,Best tablet ever!!!!!!!,2
+1536,Tablet,LOVE THE FEATURES! but battery drains fast,-1
+1537,Tablet,Crashed on the first day! Unbelievable.,-1
+1538,Laptop,Absolutely fantastic for reading and browsing.,4
+1539,Tablet,Super slow! Regret buying.,1
+1540,Headphones,,3
+1541,Smartwatch,,1
+1542,Smartphone,Very satisfied with the performance.,-1
+1543,Laptop,Noise isolation is perfect!,3
+1544,Headphones,Super slow! Regret buying.,3
+1545,Smartphone,Stylus works beautifully!,4
+1546,Smartwatch,Extremely comfortable for long hours.,4
+1547,Headphones,Sound quality is great! But overpriced.,6
+1548,Headphones,,4
+1549,Headphones,"Bad product, worst ever!",4
+1550,Smartphone,"Super fast SSD, boots in seconds!",-1
+1551,Laptop,LOVE THE FEATURES! but battery drains fast,1
+1552,Smartphone,Touchpad is very unresponsive.,6
+1553,Smartwatch,Extremely comfortable for long hours.,3
+1554,Smartwatch,"Battery lasts barely a day, not worth it.",5
+1555,Headphones,Charges super fast!,5
+1556,Laptop,"Speakers are too low, can't hear properly.",-1
+1557,Smartphone,Waterproof and stylish!,1
+1558,Headphones,Noise isolation is perfect!,-1
+1559,Smartwatch,,4
+1560,Smartwatch,Sound quality is great! But overpriced.,3
+1561,Laptop,Build quality feels cheap.,3
+1562,Tablet,"Super fast SSD, boots in seconds!",4
+1563,Laptop,Super slow! Regret buying.,6
+1564,Smartphone,Build quality feels cheap.,2
+1565,Headphones,Build quality feels cheap.,-1
+1566,Smartphone,Touchpad is very unresponsive.,5
+1567,Smartwatch,Best purchase I've made!,2
+1568,Laptop,"Overheats like crazy, unusable!",4
+1569,Smartphone,"Poor build quality, broke in a week.",6
+1570,Smartphone,Best purchase I've made!,2
+1571,Smartphone,Charges super fast!,4
+1572,Smartphone,"Overheats like crazy, unusable!",5
+1573,Smartwatch,"Overheats like crazy, unusable!",2
+1574,Laptop,Too expensive for the specs it offers.,4
+1575,Tablet,"Speakers are too low, can't hear properly.",-1
+1576,Smartphone,,2
+1577,Smartwatch,"Camera is outstanding, love it!",2
+1578,Laptop,,2
+1579,Tablet,Crashed on the first day! Unbelievable.,6
+1580,Smartphone,,6
+1581,Tablet,Very satisfied with the performance.,3
+1582,Headphones,Great battery life and amazing camera!,-1
+1583,Smartwatch,Best tablet ever!!!!!!!,6
+1584,Tablet,"Poor build quality, broke in a week.",4
+1585,Laptop,Notifications are very slow to appear.,1
+1586,Headphones,"Battery lasts barely a day, not worth it.",1
+1587,Smartwatch,"Battery lasts barely a day, not worth it.",6
+1588,Laptop,LOVE THE FEATURES! but battery drains fast,2
+1589,Smartphone,LOVE THE FEATURES! but battery drains fast,6
+1590,Tablet,Decent sound quality but overpriced,5
+1591,Smartphone,Crashed on the first day! Unbelievable.,2
+1592,Headphones,Extremely comfortable for long hours.,-1
+1593,Headphones,"Too many bugs, very disappointing.",3
+1594,Headphones,Touchpad is very unresponsive.,6
+1595,Smartwatch,Extremely comfortable for long hours.,-1
+1596,Headphones,Sound quality is great! But overpriced.,5
+1597,Laptop,,2
+1598,Headphones,Garbage! Never buying again!,-1
+1599,Smartphone,,1
+1600,Laptop,Great battery life and amazing camera!,3
+1601,Headphones,Best tablet ever!!!!!!!,5
+1602,Tablet,Stylus works beautifully!,6
+1603,Smartphone,Slow performance and keeps freezing,3
+1604,Headphones,Extremely comfortable for long hours.,6
+1605,Smartwatch,Notifications are very slow to appear.,5
+1606,Smartphone,"Speakers are too low, can't hear properly.",3
+1607,Tablet,Touchpad is very unresponsive.,2
+1608,Laptop,LOVE THE FEATURES! but battery drains fast,5
+1609,Tablet,Best purchase I've made!,1
+1610,Smartwatch,Sound quality is great! But overpriced.,3
+1611,Tablet,"Camera is outstanding, love it!",3
+1612,Laptop,Very satisfied with the performance.,6
+1613,Laptop,Build quality feels cheap.,3
+1614,Headphones,Best purchase I've made!,3
+1615,Smartphone,,2
+1616,Laptop,Slow performance and keeps freezing,6
+1617,Headphones,Noise isolation is perfect!,4
+1618,Tablet,Very satisfied with the performance.,3
+1619,Laptop,,3
+1620,Tablet,Garbage! Never buying again!,1
+1621,Laptop,Waterproof and stylish!,5
+1622,Headphones,Very satisfied with the performance.,2
+1623,Tablet,,3
+1624,Smartwatch,Super slow! Regret buying.,-1
+1625,Tablet,EXCELLENT device. love it!,5
+1626,Headphones,"Poor build quality, broke in a week.",6
+1627,Tablet,Best tablet ever!!!!!!!,4
+1628,Smartwatch,Touchpad is very unresponsive.,-1
+1629,Smartphone,EXCELLENT device. love it!,2
+1630,Headphones,"Super fast SSD, boots in seconds!",5
+1631,Smartwatch,"Too many bugs, very disappointing.",1
+1632,Headphones,"Overheats like crazy, unusable!",4
+1633,Tablet,Super slow! Regret buying.,1
+1634,Laptop,Stylus works beautifully!,2
+1635,Headphones,"Fast and smooth performance, highly recommend!",-1
+1636,Smartphone,Touchpad is very unresponsive.,3
+1637,Tablet,Noise isolation is perfect!,5
+1638,Headphones,Slow performance and keeps freezing,-1
+1639,Headphones,"Poor build quality, broke in a week.",2
+1640,Smartphone,Best tablet ever!!!!!!!,2
+1641,Laptop,EXCELLENT device. love it!,6
+1642,Tablet,Slow performance and keeps freezing,1
+1643,Smartwatch,Noise isolation is perfect!,2
+1644,Laptop,"Bad product, worst ever!",-1
+1645,Smartphone,Build quality feels cheap.,2
+1646,Smartwatch,LOVE THE FEATURES! but battery drains fast,4
+1647,Tablet,Decent sound quality but overpriced,-1
+1648,Smartwatch,Garbage! Never buying again!,-1
+1649,Laptop,Noise isolation is perfect!,3
+1650,Headphones,Super slow! Regret buying.,-1
+1651,Laptop,"Fast and smooth performance, highly recommend!",2
+1652,Smartphone,Best purchase I've made!,6
+1653,Tablet,,5
+1654,Smartphone,"Camera is outstanding, love it!",6
+1655,Laptop,"Poor build quality, broke in a week.",-1
+1656,Headphones,LOVE THE FEATURES! but battery drains fast,-1
+1657,Tablet,Absolutely fantastic for reading and browsing.,2
+1658,Tablet,"Poor build quality, broke in a week.",5
+1659,Smartwatch,EXCELLENT device. love it!,1
+1660,Tablet,"Fast and smooth performance, highly recommend!",1
+1661,Tablet,Extremely comfortable for long hours.,3
+1662,Smartwatch,Extremely comfortable for long hours.,3
+1663,Smartwatch,"Camera is outstanding, love it!",4
+1664,Headphones,Too expensive for the specs it offers.,4
+1665,Headphones,Super slow! Regret buying.,2
+1666,Smartphone,"Bad product, worst ever!",2
+1667,Tablet,Charges super fast!,2
+1668,Headphones,Super slow! Regret buying.,1
+1669,Laptop,,5
+1670,Tablet,Decent sound quality but overpriced,3
+1671,Smartwatch,Very satisfied with the performance.,6
+1672,Headphones,"Overheats like crazy, unusable!",6
+1673,Smartphone,Extremely comfortable for long hours.,6
+1674,Smartwatch,Super slow! Regret buying.,5
+1675,Headphones,Best purchase I've made!,1
+1676,Smartphone,Stylus works beautifully!,-1
+1677,Headphones,Great battery life and amazing camera!,-1
+1678,Headphones,Build quality feels cheap.,1
+1679,Smartwatch,Extremely comfortable for long hours.,-1
+1680,Laptop,Too expensive for the specs it offers.,3
+1681,Headphones,Extremely comfortable for long hours.,4
+1682,Smartwatch,Garbage! Never buying again!,3
+1683,Tablet,"Camera is outstanding, love it!",5
+1684,Laptop,Slow performance and keeps freezing,6
+1685,Headphones,Very satisfied with the performance.,2
+1686,Smartphone,Sound quality is great! But overpriced.,-1
+1687,Headphones,Decent sound quality but overpriced,6
+1688,Laptop,Charges super fast!,3
+1689,Laptop,Charges super fast!,6
+1690,Smartwatch,Noise isolation is perfect!,4
+1691,Headphones,Decent sound quality but overpriced,3
+1692,Headphones,Stylus works beautifully!,3
+1693,Tablet,Garbage! Never buying again!,2
+1694,Smartwatch,EXCELLENT device. love it!,1
+1695,Headphones,Sound quality is great! But overpriced.,5
+1696,Tablet,Stylus works beautifully!,6
+1697,Tablet,"Bad product, worst ever!",2
+1698,Headphones,Super slow! Regret buying.,3
+1699,Tablet,Slow performance and keeps freezing,6
+1700,Headphones,"Fast and smooth performance, highly recommend!",2
+1701,Headphones,"Bad product, worst ever!",5
+1702,Headphones,Notifications are very slow to appear.,1
+1703,Smartphone,Crashed on the first day! Unbelievable.,4
+1704,Smartwatch,Best tablet ever!!!!!!!,6
+1705,Smartwatch,Super slow! Regret buying.,6
+1706,Smartphone,Super slow! Regret buying.,4
+1707,Smartwatch,"Bad product, worst ever!",6
+1708,Smartwatch,"Bad product, worst ever!",5
+1709,Laptop,"Bad product, worst ever!",1
+1710,Tablet,Charges super fast!,1
+1711,Smartwatch,"Bad product, worst ever!",2
+1712,Headphones,Great battery life and amazing camera!,-1
+1713,Headphones,Noise isolation is perfect!,-1
+1714,Headphones,"Bad product, worst ever!",2
+1715,Smartwatch,Too expensive for the specs it offers.,6
+1716,Tablet,Best tablet ever!!!!!!!,1
+1717,Tablet,EXCELLENT device. love it!,1
+1718,Smartwatch,,6
+1719,Headphones,"Poor build quality, broke in a week.",5
+1720,Smartwatch,LOVE THE FEATURES! but battery drains fast,1
+1721,Smartwatch,Exceptional performance!,6
+1722,Headphones,Crashed on the first day! Unbelievable.,6
+1723,Smartphone,"Bad product, worst ever!",6
+1724,Headphones,Slow performance and keeps freezing,2
+1725,Headphones,Noise isolation is perfect!,2
+1726,Laptop,"Too many bugs, very disappointing.",2
+1727,Headphones,Crashed on the first day! Unbelievable.,6
+1728,Headphones,Great battery life and amazing camera!,6
+1729,Smartwatch,Notifications are very slow to appear.,4
+1730,Smartphone,Crashed on the first day! Unbelievable.,1
+1731,Smartphone,Best purchase I've made!,6
+1732,Laptop,Garbage! Never buying again!,1
+1733,Headphones,EXCELLENT device. love it!,6
+1734,Smartphone,,4
+1735,Laptop,"Overheats like crazy, unusable!",-1
+1736,Headphones,Very satisfied with the performance.,-1
+1737,Tablet,Super slow! Regret buying.,3
+1738,Smartphone,Exceptional performance!,5
+1739,Tablet,"Overheats like crazy, unusable!",2
+1740,Smartphone,,6
+1741,Laptop,Super slow! Regret buying.,-1
+1742,Tablet,LOVE THE FEATURES! but battery drains fast,3
+1743,Tablet,"Poor build quality, broke in a week.",6
+1744,Headphones,"Camera is outstanding, love it!",4
+1745,Smartphone,Touchpad is very unresponsive.,3
+1746,Smartphone,"Overheats like crazy, unusable!",6
+1747,Headphones,LOVE THE FEATURES! but battery drains fast,4
+1748,Smartwatch,Touchpad is very unresponsive.,4
+1749,Laptop,Slow performance and keeps freezing,3
+1750,Smartphone,Exceptional performance!,4
+1751,Laptop,Slow performance and keeps freezing,3
+1752,Tablet,Charges super fast!,1
+1753,Tablet,Very satisfied with the performance.,3
+1754,Smartphone,Extremely comfortable for long hours.,5
+1755,Tablet,"Super fast SSD, boots in seconds!",3
+1756,Tablet,Noise isolation is perfect!,6
+1757,Laptop,"Fast and smooth performance, highly recommend!",5
+1758,Smartwatch,"Overheats like crazy, unusable!",3
+1759,Headphones,Super slow! Regret buying.,5
+1760,Smartphone,Notifications are very slow to appear.,4
+1761,Tablet,Notifications are very slow to appear.,1
+1762,Smartwatch,Notifications are very slow to appear.,1
+1763,Smartphone,Best tablet ever!!!!!!!,6
+1764,Smartwatch,Slow performance and keeps freezing,-1
+1765,Laptop,Charges super fast!,4
+1766,Smartwatch,Absolutely fantastic for reading and browsing.,-1
+1767,Smartphone,Build quality feels cheap.,6
+1768,Smartwatch,Sound quality is great! But overpriced.,6
+1769,Smartphone,EXCELLENT device. love it!,2
+1770,Smartwatch,Very satisfied with the performance.,5
+1771,Tablet,Notifications are very slow to appear.,5
+1772,Laptop,"Too many bugs, very disappointing.",1
+1773,Smartwatch,LOVE THE FEATURES! but battery drains fast,1
+1774,Tablet,Touchpad is very unresponsive.,6
+1775,Headphones,"Super fast SSD, boots in seconds!",5
+1776,Headphones,"Overheats like crazy, unusable!",5
+1777,Laptop,"Speakers are too low, can't hear properly.",4
+1778,Tablet,Absolutely fantastic for reading and browsing.,-1
+1779,Smartphone,Very satisfied with the performance.,2
+1780,Headphones,Build quality feels cheap.,3
+1781,Smartwatch,Great battery life and amazing camera!,6
+1782,Smartwatch,,1
+1783,Tablet,"Fast and smooth performance, highly recommend!",2
+1784,Laptop,"Poor build quality, broke in a week.",6
+1785,Headphones,Extremely comfortable for long hours.,4
+1786,Smartwatch,EXCELLENT device. love it!,-1
+1787,Smartwatch,"Battery lasts barely a day, not worth it.",5
+1788,Smartwatch,Too expensive for the specs it offers.,3
+1789,Headphones,EXCELLENT device. love it!,1
+1790,Tablet,"Overheats like crazy, unusable!",1
+1791,Laptop,"Speakers are too low, can't hear properly.",2
+1792,Headphones,Charges super fast!,4
+1793,Tablet,"Overheats like crazy, unusable!",6
+1794,Tablet,Stylus works beautifully!,-1
+1795,Tablet,,3
+1796,Tablet,Extremely comfortable for long hours.,6
+1797,Headphones,Super slow! Regret buying.,-1
+1798,Headphones,Extremely comfortable for long hours.,-1
+1799,Smartphone,Build quality feels cheap.,2
+1800,Laptop,"Fast and smooth performance, highly recommend!",1
+1801,Smartphone,Touchpad is very unresponsive.,5
+1802,Headphones,EXCELLENT device. love it!,4
+1803,Smartwatch,"Overheats like crazy, unusable!",5
+1804,Smartwatch,Notifications are very slow to appear.,3
+1805,Smartphone,Waterproof and stylish!,3
+1806,Headphones,Touchpad is very unresponsive.,6
+1807,Headphones,"Overheats like crazy, unusable!",6
+1808,Headphones,Crashed on the first day! Unbelievable.,6
+1809,Smartphone,,4
+1810,Smartwatch,EXCELLENT device. love it!,4
+1811,Smartwatch,Great battery life and amazing camera!,3
+1812,Smartphone,Garbage! Never buying again!,3
+1813,Tablet,,4
+1814,Laptop,"Super fast SSD, boots in seconds!",3
+1815,Tablet,Best purchase I've made!,4
+1816,Tablet,"Super fast SSD, boots in seconds!",-1
+1817,Smartphone,Notifications are very slow to appear.,4
+1818,Tablet,Noise isolation is perfect!,6
+1819,Smartphone,Best purchase I've made!,4
+1820,Smartphone,Sound quality is great! But overpriced.,4
+1821,Laptop,Notifications are very slow to appear.,5
+1822,Tablet,Very satisfied with the performance.,1
+1823,Smartphone,"Super fast SSD, boots in seconds!",4
+1824,Smartphone,Charges super fast!,-1
+1825,Laptop,"Too many bugs, very disappointing.",3
+1826,Tablet,Waterproof and stylish!,4
+1827,Smartwatch,Charges super fast!,2
+1828,Smartphone,Noise isolation is perfect!,-1
+1829,Tablet,Exceptional performance!,-1
+1830,Headphones,"Poor build quality, broke in a week.",3
+1831,Smartwatch,Extremely comfortable for long hours.,4
+1832,Smartwatch,Extremely comfortable for long hours.,2
+1833,Smartphone,Crashed on the first day! Unbelievable.,4
+1834,Headphones,Great battery life and amazing camera!,-1
+1835,Headphones,Decent sound quality but overpriced,1
+1836,Tablet,"Too many bugs, very disappointing.",2
+1837,Tablet,"Bad product, worst ever!",1
+1838,Laptop,"Battery lasts barely a day, not worth it.",6
+1839,Smartphone,,1
+1840,Smartphone,Very satisfied with the performance.,3
+1841,Tablet,Very satisfied with the performance.,2
+1842,Smartphone,Best purchase I've made!,5
+1843,Smartwatch,Exceptional performance!,3
+1844,Smartphone,Best purchase I've made!,1
+1845,Laptop,Garbage! Never buying again!,5
+1846,Smartphone,Waterproof and stylish!,4
+1847,Smartwatch,Best tablet ever!!!!!!!,6
+1848,Laptop,Waterproof and stylish!,2
+1849,Tablet,"Super fast SSD, boots in seconds!",1
+1850,Smartphone,"Poor build quality, broke in a week.",3
+1851,Smartphone,Exceptional performance!,-1
+1852,Tablet,"Camera is outstanding, love it!",3
+1853,Laptop,Garbage! Never buying again!,3
+1854,Smartwatch,Sound quality is great! But overpriced.,-1
+1855,Smartphone,Slow performance and keeps freezing,1
+1856,Headphones,"Too many bugs, very disappointing.",1
+1857,Headphones,Great battery life and amazing camera!,6
+1858,Laptop,Best purchase I've made!,6
+1859,Headphones,Best purchase I've made!,2
+1860,Tablet,Absolutely fantastic for reading and browsing.,4
+1861,Smartwatch,LOVE THE FEATURES! but battery drains fast,5
+1862,Smartwatch,"Camera is outstanding, love it!",6
+1863,Smartphone,Crashed on the first day! Unbelievable.,3
+1864,Smartphone,"Speakers are too low, can't hear properly.",1
+1865,Smartphone,Very satisfied with the performance.,4
+1866,Tablet,Too expensive for the specs it offers.,2
+1867,Headphones,"Speakers are too low, can't hear properly.",1
+1868,Tablet,Charges super fast!,6
+1869,Smartwatch,Best tablet ever!!!!!!!,-1
+1870,Laptop,Best tablet ever!!!!!!!,6
+1871,Smartwatch,Waterproof and stylish!,3
+1872,Smartphone,Best tablet ever!!!!!!!,2
+1873,Laptop,Too expensive for the specs it offers.,4
+1874,Smartphone,"Bad product, worst ever!",3
+1875,Smartphone,,5
+1876,Smartwatch,Charges super fast!,-1
+1877,Smartwatch,Best tablet ever!!!!!!!,4
+1878,Tablet,Stylus works beautifully!,4
+1879,Laptop,Noise isolation is perfect!,4
+1880,Headphones,"Overheats like crazy, unusable!",4
+1881,Headphones,Extremely comfortable for long hours.,3
+1882,Smartwatch,Super slow! Regret buying.,6
+1883,Tablet,"Poor build quality, broke in a week.",1
+1884,Laptop,Very satisfied with the performance.,3
+1885,Smartwatch,EXCELLENT device. love it!,5
+1886,Headphones,Best tablet ever!!!!!!!,6
+1887,Tablet,Super slow! Regret buying.,3
+1888,Tablet,Waterproof and stylish!,-1
+1889,Smartphone,"Bad product, worst ever!",2
+1890,Laptop,Charges super fast!,4
+1891,Smartwatch,Absolutely fantastic for reading and browsing.,6
+1892,Headphones,,-1
+1893,Smartphone,Crashed on the first day! Unbelievable.,3
+1894,Tablet,"Fast and smooth performance, highly recommend!",-1
+1895,Smartphone,Charges super fast!,4
+1896,Laptop,Garbage! Never buying again!,4
+1897,Tablet,"Poor build quality, broke in a week.",4
+1898,Smartwatch,Sound quality is great! But overpriced.,-1
+1899,Headphones,Exceptional performance!,-1
+1900,Tablet,Sound quality is great! But overpriced.,4
+1901,Smartwatch,"Too many bugs, very disappointing.",1
+1902,Headphones,Sound quality is great! But overpriced.,6
+1903,Tablet,"Overheats like crazy, unusable!",2
+1904,Tablet,"Poor build quality, broke in a week.",4
+1905,Laptop,"Super fast SSD, boots in seconds!",4
+1906,Laptop,Stylus works beautifully!,5
+1907,Laptop,Super slow! Regret buying.,5
+1908,Laptop,"Fast and smooth performance, highly recommend!",4
+1909,Laptop,Best tablet ever!!!!!!!,-1
+1910,Tablet,Noise isolation is perfect!,1
+1911,Smartwatch,Too expensive for the specs it offers.,3
+1912,Laptop,Super slow! Regret buying.,1
+1913,Headphones,Slow performance and keeps freezing,4
+1914,Headphones,"Speakers are too low, can't hear properly.",5
+1915,Smartwatch,Very satisfied with the performance.,6
+1916,Smartphone,Waterproof and stylish!,5
+1917,Tablet,Touchpad is very unresponsive.,4
+1918,Smartphone,Decent sound quality but overpriced,4
+1919,Laptop,Charges super fast!,1
+1920,Smartwatch,Slow performance and keeps freezing,-1
+1921,Smartwatch,Very satisfied with the performance.,6
+1922,Headphones,Crashed on the first day! Unbelievable.,3
+1923,Smartwatch,Touchpad is very unresponsive.,2
+1924,Smartphone,Sound quality is great! But overpriced.,1
+1925,Tablet,"Speakers are too low, can't hear properly.",6
+1926,Laptop,"Battery lasts barely a day, not worth it.",1
+1927,Headphones,Very satisfied with the performance.,5
+1928,Smartphone,Charges super fast!,3
+1929,Laptop,EXCELLENT device. love it!,4
+1930,Smartphone,Decent sound quality but overpriced,-1
+1931,Tablet,EXCELLENT device. love it!,2
+1932,Headphones,"Bad product, worst ever!",1
+1933,Laptop,Waterproof and stylish!,3
+1934,Smartwatch,Absolutely fantastic for reading and browsing.,1
+1935,Headphones,"Overheats like crazy, unusable!",5
+1936,Laptop,Crashed on the first day! Unbelievable.,1
+1937,Smartphone,Best tablet ever!!!!!!!,-1
+1938,Smartphone,"Poor build quality, broke in a week.",3
+1939,Smartphone,"Too many bugs, very disappointing.",5
+1940,Headphones,Absolutely fantastic for reading and browsing.,1
+1941,Tablet,"Super fast SSD, boots in seconds!",-1
+1942,Headphones,"Speakers are too low, can't hear properly.",-1
+1943,Laptop,Super slow! Regret buying.,5
+1944,Smartwatch,Extremely comfortable for long hours.,3
+1945,Laptop,Extremely comfortable for long hours.,-1
+1946,Smartphone,EXCELLENT device. love it!,6
+1947,Laptop,,4
+1948,Smartphone,Stylus works beautifully!,2
+1949,Headphones,Absolutely fantastic for reading and browsing.,-1
+1950,Headphones,LOVE THE FEATURES! but battery drains fast,6
+1951,Smartwatch,Touchpad is very unresponsive.,-1
+1952,Smartphone,,6
+1953,Smartwatch,Extremely comfortable for long hours.,2
+1954,Smartwatch,"Fast and smooth performance, highly recommend!",1
+1955,Headphones,Best tablet ever!!!!!!!,1
+1956,Laptop,"Speakers are too low, can't hear properly.",4
+1957,Smartphone,,6
+1958,Smartphone,"Overheats like crazy, unusable!",6
+1959,Laptop,"Too many bugs, very disappointing.",6
+1960,Smartwatch,LOVE THE FEATURES! but battery drains fast,5
+1961,Smartphone,Decent sound quality but overpriced,6
+1962,Headphones,Decent sound quality but overpriced,2
+1963,Headphones,"Fast and smooth performance, highly recommend!",6
+1964,Smartphone,Garbage! Never buying again!,-1
+1965,Headphones,Exceptional performance!,5
+1966,Tablet,Sound quality is great! But overpriced.,2
+1967,Smartphone,"Overheats like crazy, unusable!",6
+1968,Smartwatch,LOVE THE FEATURES! but battery drains fast,6
+1969,Smartwatch,Super slow! Regret buying.,4
+1970,Headphones,Stylus works beautifully!,4
+1971,Smartwatch,Crashed on the first day! Unbelievable.,6
+1972,Headphones,Crashed on the first day! Unbelievable.,1
+1973,Smartwatch,"Super fast SSD, boots in seconds!",-1
+1974,Headphones,"Overheats like crazy, unusable!",6
+1975,Smartwatch,Noise isolation is perfect!,3
+1976,Laptop,"Too many bugs, very disappointing.",6
+1977,Headphones,"Battery lasts barely a day, not worth it.",-1
+1978,Headphones,Slow performance and keeps freezing,5
+1979,Smartphone,"Super fast SSD, boots in seconds!",4
+1980,Smartwatch,Extremely comfortable for long hours.,6
+1981,Tablet,Stylus works beautifully!,-1
+1982,Tablet,Noise isolation is perfect!,4
+1983,Smartphone,"Camera is outstanding, love it!",1
+1984,Smartphone,Very satisfied with the performance.,3
+1985,Smartphone,"Super fast SSD, boots in seconds!",6
+1986,Tablet,Slow performance and keeps freezing,2
+1987,Laptop,"Camera is outstanding, love it!",4
+1988,Laptop,"Speakers are too low, can't hear properly.",-1
+1989,Smartwatch,Slow performance and keeps freezing,2
+1990,Tablet,Best purchase I've made!,3
+1991,Tablet,Noise isolation is perfect!,2
+1992,Tablet,,4
+1993,Laptop,Waterproof and stylish!,6
+1994,Smartwatch,"Speakers are too low, can't hear properly.",6
+1995,Tablet,,1
+1996,Laptop,Extremely comfortable for long hours.,3
+1997,Tablet,"Camera is outstanding, love it!",3
+1998,Tablet,"Poor build quality, broke in a week.",6
+1999,Smartphone,Very satisfied with the performance.,6
+2000,Smartwatch,Best tablet ever!!!!!!!,2
