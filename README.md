@@ -47,7 +47,7 @@ Built as a real-world solution, this project combines **NLP + Data Analytics + V
 ---
 
 ## 📷 Screenshots
-![](Screenshot/s1.png)
-![](Screenshot/s2.png)
-![](Screenshot/s3.png)
-![](Screenshot/s4.png)
+![](Screenshots/s1.png)
+![](Screenshots/s2.png)
+![](Screenshots/s3.png)
+![](Screenshots/s4.png)
